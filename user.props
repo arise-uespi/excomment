@@ -1,0 +1,7 @@
+#/* properties updated */
+#Mon Sep 30 22:13:39 BRT 2019
+user=postgres
+port=5432
+password=teste
+host=localhost
+database=hoje

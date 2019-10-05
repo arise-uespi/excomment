@@ -1,0 +1,887 @@
+Who is calling this?	"Can causes exception, Making Question"
+complete fail	Defects or bugs
+rather bad hash solution	"Difficult to be maintained in the future, Inadequate solution"
+Code so long?	Bad coding practices
+Remove the dependent	Dependency
+should fail	Defects or bugs
+replace the deprecated	Deprecated code
+fails the test	Deficiencies in testing activities
+unnecessarily complicated	Difficult to be maintained in the future
+uncommented	Documentation-missing or inadequate or incomplete
+error	Defects or bugs
+dependency cycle	Dependency
+not support Java 1.3 any more	"Difficult to be maintained in the future, Inadequate solution"
+needs to be fixed	"Defects or bugs, Uncorrected known defects or bugs, Something to be fixed"
+Remove duplicates	Duplicate code
+loops are double	Can causes exception
+This case is complicated	Difficult to be maintained in the future
+fix	Defects or bugs
+not used in the new APIs	"Can causes exception, Difficult to be maintained in the future"
+assert fails	Defects or bugs
+cyclic dependency	Dependency
+fail	Defects or bugs
+causes and exception	Can causes exception
+contains some errors	Defects or bugs
+Todo: Why does it fail	"Defects or bugs, Making Question"
+clone method	Duplicate code
+Calls are ORDER DEPENDENT	Dependency
+duplicate	Duplicate code
+show some documentation?	Documentation-missing or inadequate or incomplete
+remove dependencies later	Dependency
+It causes the feedback loop	Can causes exception
+probably redundant	Duplicate code
+cause exception	Can causes exception
+This is a bug	Defects or bugs
+Duplicate	Duplicate code
+is slightly different than what's documented	"Documentation-missing or inadequate or incomplete, Not according"
+hardcode	Difficult to be maintained in the future
+clone of this code	Duplicate code
+get confused	Difficult to be maintained in the future
+caused problem	Can causes exception
+Todo: does not handle	Can causes exception
+It 's an error	Defects or bugs
+caused problem	"Can causes exception, Reporting Issues or problems"
+code is not used	"Difficult to be maintained in the future, Unnecessary  or not used code"
+Todo: has a bad smell	Code smells
+Can fail	"Can causes exception, Defects or bugs"
+Note: code duplicates	Duplicate code
+Note: This class has gotten too big	Code smells
+Note: this try/catch block is copied from	Duplicate code
+TODO: is not friendly	Difficult to be maintained in the future
+undocumented	Documentation-missing or inadequate or incomplete
+XXX: hairy code	Difficult to be maintained in the future
+XXX: deprecated	Deprecated code
+too large	Code smells
+see bug	Defects or bugs
+seems to be a bug	Defects or bugs
+workaround the bug	Defects or bugs
+Workaround for a bug	Defects or bugs
+plainly impossible	Difficult to be maintained in the future
+binding bug	Defects or bugs
+Workaround for a bug	Defects or bugs
+workaround for a bug	Defects or bugs
+TODO: would be better to refactor	"Open task, To do better (improvements)"
+Bug	Defects or bugs
+Bug	Defects or bugs
+intentionally fails	Defects or bugs
+is not reliable as a unit test	Deficiencies in testing activities
+timing-dependent	Dependency
+test will fail	Deficiencies in testing activities
+fail	Defects or bugs
+clone	Duplicate code
+confusing name	Bad coding practices
+Note: senseless	"Difficult to be maintained in the future, Not according"
+should fail	Defects or bugs
+BUG	Defects or bugs
+Bad code	"Bad coding practices, Code smells, Difficult to be maintained in the future"
+big arrays	Bad coding practices
+clone code	Duplicate code
+Deadlock	Bad coding practices
+Error	Defects or bugs
+Ignore the error	Defects or bugs
+It 's an error	Defects or bugs
+god class	"Code smells, Violation of principles of good design"
+Harder to fix	"Difficult to be maintained in the future, Uncorrected known defects or bugs"
+large class	"Difficult to be maintained in the future, Violation of principles of good design"
+large coupled	"Difficult to be maintained in the future, Violation of principles of good design"
+test score for nothing	Deficiencies in testing activities
+Don't appear to be used	"Difficult to be maintained in the future, Unnecessary  or not used code"
+not used in the new APIs	Deprecated code
+code is not used	"Difficult to be maintained in the future, Unnecessary  or not used code"
+no faults are fixed	"Defects or bugs, Uncorrected known defects or bugs"
+Todo: Why does it fail	"Defects or bugs, Making Question"
+causes and exception	Can causes exception
+show some documentation?	"Documentation-missing or inadequate or incomplete, Making Question"
+It causes the feedback loop	Bad coding practices
+it is used in several places	Duplicate code
+clone of this code	Duplicate code
+Need to Copy	Duplicate code
+This is a bug	Defects or bugs
+cause issue	"Can causes exception, Reporting Issues or problems"
+is slightly different than what's documented	Documentation-missing or inadequate or incomplete
+Todo: does not handle	"Can causes exception, Open task"
+Todo: has a bad smell	"Code smells, Task to be solved"
+Todo: This needs more work!	"Difficult to be maintained in the future, It is not working or does not work very well, Open task"
+contains some errors	"Defects or bugs, Reporting Issues or problems"
+Bad coding practies	Bad coding practices
+Deficiency in testing activities	Deficiencies in testing activities
+Who is calling this?	"Can causes exception, Making Question"
+Information that is required	Documentation-missing or inadequate or incomplete
+do not support	It is not working or does not work very well
+remove dependencies later	Dependency
+Remove the dependent	Dependency
+deprecated call	Deprecated code
+somewhat inconsistent	"Difficult to be maintained in the future, Violation of principles of good design"
+undocumented	Documentation-missing or inadequate or incomplete
+needs documenting	Documentation-missing or inadequate or incomplete
+Dirty fix	"Difficult to be maintained in the future, Low/bad external/internal quality of properties"
+Deprecated	Deprecated code
+unnecessarily complicated	Difficult to be maintained in the future
+This case is complicated	Difficult to be maintained in the future
+Information that is required	Documentation-missing or inadequate or incomplete
+Remove duplicates	Duplicate code
+unwanted dependency	Dependency
+rather bad hash solution	"Difficult to be maintained in the future, Inadequate solution"
+Code so long?	Bad coding practices
+uncommented	Documentation-missing or inadequate or incomplete
+difficult to maintain	Difficult to be maintained in the future
+Duplicate	Duplicate code
+fails the test	Deficiencies in testing activities
+can fail	Defects or bugs
+assert fails	Defects or bugs
+complete fail	Defects or bugs
+overlap	Can causes exception
+bug workaround	"Defects or bugs, Inadequate solution"
+Workaround for a bug	"Defects or bugs, Inadequate solution"
+duplicate	Duplicate code
+undocumented	Documentation-missing or inadequate or incomplete
+clone	Duplicate code
+Why are these gone?	Making Question
+trap	Low/bad external/internal quality of properties
+need to be in their own files?	"Inadequate location, Open task"
+public?	Making Question
+the critic in the first place	Low/bad external/internal quality of properties
+Who is calling this?	"Can causes exception, Making Question"
+Todo: This probably belongs	Inadequate location
+rather bad hash solution	"Difficult to be maintained in the future, Inadequate solution"
+not possible to do better	"Inadequate solution, To do better (improvements)"
+why synchronized?	Making Question
+Todo: Why was	"Making Question, Open task"
+nobody ever looks	Human factors
+Dirty fix	Low/bad external/internal quality of properties
+Todo: Is this needed?	Making Question
+Todo: This needs more work!	"It is not working or does not work very well, Open task"
+Todo: Is this a good way?	"Inadequate solution, Making Question, Open task, To do better (improvements)"
+What do we do	Making Question
+Todo: Is this a good way?	"Inadequate solution, Open task, To do better (improvements)"
+Why?	Making Question
+Todo: does not work	It is not working or does not work very well
+TODO: why is this inside a block?	"Inadequate location, Making Question"
+slows things down	Low/bad external/internal quality of properties
+not support Java 1.3 any more	"Difficult to be maintained in the future, Inadequate solution"
+references to elements of other packages?	Making Question
+problems directly in this class	"It is not working or does not work very well, Reporting Issues or problems"
+not work	It is not working or does not work very well
+Is there no better way?	"Making Question, To do better (improvements)"
+need to do anything here?	"Inadequate location, Making Question"
+is not the correct way	"Inadequate solution, To do better (improvements)"
+Why	Making Question
+Todo: Is this required?	Making Question
+Why	Making Question
+Why is this not done	Inadequate solution
+Todo: Does this help?	Making Question
+Todo: how to handle	"Making Question, Open task"
+Todo: Why does it fail	"Defects or bugs, Making Question"
+Why should it pass?	Making Question
+Todo: Why	Making Question
+not do this?	"Making Question, Task should not be done"
+doesn't do anything	It is not working or does not work very well
+Will be hard work	Low/bad external/internal quality of properties
+should actually not be placed here	Inadequate location
+Why?	Making Question
+arbitrary dimensions	Low/bad external/internal quality of properties
+What about?	Making Question
+need to be moved someplace useful	"Inadequate location, Open task"
+Todo: Here too?	"Inadequate location, Making Question"
+not entirely correct	Inadequate solution
+TODO: ?delete	Making Question
+Todo: ?delete	Making Question
+Todo: Which is best?	"Making Question, To do better (improvements)"
+Is there any other way?	"Making Question, To do better (improvements)"
+it is used in several places	Inadequate location
+less efficient	Low/bad external/internal quality of properties
+Todo: This is probably not the right location	Inadequate location
+Todo: This needs work	It is not working or does not work very well
+Do we need	Making Question
+here?	Inadequate location
+Why is it here?	"Inadequate location, Making Question"
+how do we resolve this?	"Making Question, Task to be solved"
+Find a better way to do this	"Inadequate solution, To do better (improvements)"
+horribly Inefficient	It is not working or does not work very well
+broken archive	It is not working or does not work very well
+This is broken	It is not working or does not work very well
+incorrectly caches	It is not working or does not work very well
+what do we do	Making Question
+Note: incorrect here	Inadequate location
+are not currently expored	It is not working or does not work very well
+Note: kind of far-fetched	Low/bad external/internal quality of properties
+can never be	It is not working or does not work very well
+broken down	It is not working or does not work very well
+TODO: What to do	Making Question
+Note: this is inefficient	It is not working or does not work very well
+XXX: does this really belong here?	Inadequate location
+stupid scrollbar	Low/bad external/internal quality of properties
+workaround	Inadequate solution
+break the action	It is not working or does not work very well
+dirty hack	Low/bad external/internal quality of properties
+need this bullshit	It is not working or does not work very well
+bad hack	Low/bad external/internal quality of properties
+weird hack	Low/bad external/internal quality of properties
+this sucks	Low/bad external/internal quality of properties
+stupid hack	Low/bad external/internal quality of properties
+stupid error	"Defects or bugs, It is not working or does not work very well"
+seems silly	Low/bad external/internal quality of properties
+find a better place	Inadequate location
+can be expensive	Low/bad external/internal quality of properties
+very expensive	Low/bad external/internal quality of properties
+TODO: this has to be here	Inadequate location
+TODO: maybe take here?	"Inadequate location, Uncertainty about any artifact"
+fully opaque	Low/bad external/internal quality of properties
+could be more efficient	It is not working or does not work very well
+cannot be called	It is not working or does not work very well
+won't work	It is not working or does not work very well
+TODO broken	It is not working or does not work very well
+should be enough	Low/bad external/internal quality of properties
+TODO labels??!!	Making Question
+is not enough	Low/bad external/internal quality of properties
+TODO: wtf	It is not working or does not work very well
+TODO: valid?	Making Question
+TODO not correct!!	"It is not working or does not work very well, Not according"
+Todo: ?	"Making Question, Open task"
+TODO: Here too?	"Inadequate location, Making Question"
+TODO: Why	Making Question
+Todo: how to	"Making Question, Open task"
+TODO: ?delete	"Making Question, Open task"
+Todo: ??	Making Question
+Is there no better way?	"Inadequate solution, Making Question, To do better (improvements)"
+Is this correct?	Making Question
+Does this help?	Making Question
+Would it not better be	"Inadequate solution, To do better (improvements)"
+Find a better way to do this	"Inadequate solution, To do better (improvements)"
+not possible to do better	Inadequate solution
+Todo: Is this a good way?	"Inadequate solution, Making Question"
+probably better ways to implement this	"Inadequate solution, To do better (improvements)"
+is not the correct way	Inadequate solution
+not entirely correct	Inadequate solution
+other way to implement	"Inadequate solution, To do better (improvements)"
+Quality problem	"Low/bad external/internal quality of properties, Reporting Issues or problems"
+tired to think	Human factors
+unclean	Low/bad external/internal quality of properties
+What do we do	Making Question
+What about?	Making Question
+TODO: check if this works	It is not working or does not work very well
+Why?	Making Question
+Why are these gone?	Making Question
+Why is it here?	"Inadequate location, Making Question"
+why synchronized?	Making Question
+Todo: Why was	"Making Question, Open task"
+TODO: why is this inside a block?	"Inadequate location, Making Question, Open task"
+Todo: Why does it fail	"Defects or bugs, Making Question"
+show some documentation?	"Documentation-missing or inadequate or incomplete, Making Question"
+not are useful here	Inadequate location
+nobody ever looks	Human factors
+Is there any other way?	"Making Question, To do better (improvements)"
+Todo: This is probably not the right location	"Inadequate location, Open task"
+?	Making Question
+Todo: Which is best?	"Making Question, To do better (improvements)"
+TODO: I don't think it's normal	"Human factors, Inadequate location, Not according"
+Todo: This needs more work!	"Difficult to be maintained in the future, It is not working or does not work very well, Open task"
+not are useful here	"Inadequate location, Unnecessary  or not used code"
+Low code coverage	Insufficient code coverage
+TODO: I don't think it's normal	Inadequate location
+need to be in their own files?	"Inadequate location, Open task"
+Todo: Why is this here?	"Inadequate location, Making Question"
+Who is calling this?	"Can causes exception, Making Question"
+Todo: This probably belongs	"Inadequate location, Uncertainty about any artifact"
+Is there no better way?	"Making Question, To do better (improvements)"
+need to do anything here?	"Inadequate location, Making Question"
+Todo: Is this required?	"Making Question, Uncertainty about any artifact"
+Todo: Does this help?	"Making Question, Uncertainty about any artifact"
+Todo: Why do I need to do this?	"Making Question, Task should not be done"
+can never happen	"Not needed, Unnecessary  or not used code"
+Todo: This needs work	"It is not working or does not work very well, Open task"
+move to the correct owner	Inadequate location
+how do we resolve this?	"Making Question, Task to be solved"
+need to clone	"Making Question, Open task"
+need to do anything here?	"Inadequate location, Making Question"
+Why should it pass?	Making Question
+should actually not be placed here	"Inadequate location, Task should not be done"
+not do this?	Making Question
+Will be hard work	Low/bad external/internal quality of properties
+method is unsafe	"Low/bad external/internal quality of properties, Need to be safe"
+Dirty fix	"Difficult to be maintained in the future, Low/bad external/internal quality of properties"
+TODO: Is this required?	Making Question
+not correct	Inadequate solution
+Strange	Low/bad external/internal quality of properties
+rather bad hash solution	"Difficult to be maintained in the future, Inadequate solution"
+here?	"Inadequate location, Making Question"
+:/	"Human factors, Symbol expressing emotions"
+:(	"Human factors, Symbol expressing emotions"
+:o	"Human factors, Symbol expressing emotions"
+wtf	Human factors
+contradict	Low/bad external/internal quality of properties
+Fail	Low/bad external/internal quality of properties
+Workaround for a bug	"Defects or bugs, Inadequate solution"
+this sucks	Inadequate solution
+broken down	"It is not working or does not work very well, Low/bad external/internal quality of properties"
+plainly impossible	Low/bad external/internal quality of properties
+incorrect	Low/bad external/internal quality of properties
+loose	Low/bad external/internal quality of properties
+far-fetched	Low/bad external/internal quality of properties
+messy	Low/bad external/internal quality of properties
+hairy	Low/bad external/internal quality of properties
+stupid	Low/bad external/internal quality of properties
+not sufficient	Low/bad external/internal quality of properties
+weird	Low/bad external/internal quality of properties
+horribly	Low/bad external/internal quality of properties
+bullshit	Low/bad external/internal quality of properties
+TODO: maybe take here?	"Making Question, Open task"
+is not enough	Inadequate solution
+make sense?	Making Question
+Remark	Open task
+need to be	Open task
+is needed	Need to implement or it wasn't well implemented
+need to be in their own files?	"Inadequate location, Open task"
+Todo: THIS IS A HACK	"Open task, Reporting Issues or problems"
+would be not to start	"Not according, Task should not be done"
+defined in the ToDoItem	Open task
+need to set	Open task
+TODO: resolve item	"Open task, Task to be solved"
+Todo: really should be	Open task
+manually created todo item	Open task
+TODO: indicate the direction!	Open task
+Todo: should have	Open task
+It should handle	Open task
+Todo: Why was	"Making Question, Open task"
+Have to	Open task
+Remark	Open task
+need to listen	Open task
+Todo: Check the name	Open task
+Todo: The recurrence	Open task
+contradict	Not according
+Need to be amended	Open task
+Remark	Open task
+need to set	Open task
+Will be needed	Open task
+Todo: This needs more work!	"It is not working or does not work very well, Open task"
+need to extend	Open task
+Check	Open task
+Todo: Can	Open task
+Have to	Open task
+Todo: Is this a good way?	"Inadequate solution, Making Question, Open task, To do better (improvements)"
+Todo: Is this a good way?	"Inadequate solution, Open task, To do better (improvements)"
+Todo: Change	Open task
+Todo: link to	Open task
+should use	Open task
+Todo: Add implementation	"Need to implement or it wasn't well implemented, Open task"
+Todo: Not sure we need to do this	"Open task, Uncertainty about any artifact"
+to be safe	Need to be safe
+Todo: Here we should	Open task
+maybe can be implemented	"Need to implement or it wasn't well implemented, Uncertainty about any artifact"
+have to	Open task
+Todo: move	Open task
+Should modify	Open task
+should modify	Open task
+TODO: Reuse	Open task
+Todo: Party overlaps	Open task
+should be fixed	"Open task, Uncorrected known defects or bugs"
+should allow	Open task
+is not yet completely implemented	Need to implement or it wasn't well implemented
+may be no need	Not needed
+must be moved	Open task
+I don't think	Not according
+Todo: temporary	"Open task, Temporary solution or workarounds"
+Todo: Update	Open task
+Not necessarily	Not needed
+Todo: Replace	Open task
+Todo: Work in progress here	Open task
+have to	Open task
+need to	Open task
+take care	Need to be safe
+Todo: We could also support	Open task
+must be	Open task
+Todo: not implemented	"Need to implement or it wasn't well implemented, Open task"
+can probably have	Open task
+must be	Open task
+need to	Open task
+Todo: Replace	Open task
+Todo: check	Open task
+have to use	Open task
+must be resized	Open task
+could probably be	Open task
+Todo: constraints	Open task
+should be visible	Open task
+need to change	Open task
+Todo: verify	Open task
+need to set	Open task
+Todo: Check!	Open task
+Todo: how to handle	"Making Question, Open task"
+has to be	Open task
+should probably go	Open task
+let's be sure	Need to be safe
+need to	Open task
+need to	Open task
+Todo: improve the fig finding algorithm	"Open task, To do better (improvements)"
+will be useful	Open task
+need to	Open task
+must come before	Not according
+can be deleted	Open task
+Todo: implement this	Need to implement or it wasn't well implemented
+Todo: Not	Open task
+not are useful here	Not according
+Todo: correctly implement	"Need to implement or it wasn't well implemented, Open task"
+have to	Open task
+Todo: implement this!	Need to implement or it wasn't well implemented
+for debugging	Open task
+should not be necessary	Not according
+have to move	Open task
+should attempt	Open task
+to be verified	Open task
+I don't understand	Misunderstanding
+must be re-introduced to solve	"Open task, Task to be solved"
+need to verify	"Exclude this line, Open task"
+can't contain	Not according
+must have	Open task
+method is unsafe	"Need to be safe, Need to implement or it wasn't well implemented"
+need to check	Open task
+need to jump	Open task
+Todo: This is not according	Not according
+is slightly different than what's documented	"Documentation-missing or inadequate or incomplete, Not according"
+to do	Open task
+Need to copy	Open task
+will be moving	Open task
+have to add	Open task
+is not a valid one	Not according
+need to listen	Open task
+Todo: review	Open task
+will be able	Open task
+Todo: Redo	Open task
+must notify modification	Open task
+must be	Open task
+Could be	Open task
+will be replaced	Open task
+TODO: add	Open task
+should be taken out	Open task
+must be	Open task
+need to	Open task
+Todo: Rework	Need to implement or it wasn't well implemented
+perhaps move to	Open task
+Todo: Handle	Open task
+TODO: I don't think it's normal	Not according
+Todo Use	Open task
+Review	Open task
+must assemble	Open task
+REVIEW Maybe this should be	"Open task, Uncertainty about any artifact"
+Note	Open task
+need to set	Open task
+needs to re-evaluate	Open task
+need to eliminate	Open task
+Note: loose type	Open task
+Note: we should implement	Need to implement or it wasn't well implemented
+could override this method	Need to be safe
+should be overridden	"Need to implement or it wasn't well implemented, Open task"
+Note: need	Open task
+Note: could eliminate	Open task
+Note: maybe	Uncertainty about any artifact
+Note: should	Open task
+need to change	Open task
+need to be rewritten	Need to implement or it wasn't well implemented
+rewritten	Open task
+TODO: need to add	Open task
+need to	Open task
+todo: check	Open task
+Todo: make	Open task
+XXX clean up	Open task
+XXX	Open task
+XXXX re-evaluate	Open task
+barely understood	Misunderstanding
+Should be careful	Need to be safe
+must be	Open task
+Hack	Open task
+This is not a sufficient	Need to implement or it wasn't well implemented
+hack to get fix	"Open task, Uncorrected known defects or bugs"
+hack to move	Open task
+hack to work	Open task
+have to do	Open task
+hack to avoid	Open task
+REMIND	Open task
+must be a better way	"Open task, To do better (improvements)"
+Will be	Open task
+Should use	Open task
+Would be	Open task
+FIXME: check	Something to be fixed
+FIXME: rename	Something to be fixed
+FIXME: use	Something to be fixed
+hack: find	Open task
+TODO: refactor	Open task
+TODO: maybe	"Open task, Uncertainty about any artifact"
+TODO: maybe	"Open task, Uncertainty about any artifact"
+should make	Open task
+TODO: maybe we should resolve	"Open task, Task to be solved"
+TODO: Maybe	"Open task, Uncertainty about any artifact"
+TODO maybe it would make	"Open task, Uncertainty about any artifact"
+don't know	Misunderstanding
+TODO: add	Open task
+TODO: split	Open task
+wrong	Not according
+TODO: Add	Open task
+need to validate	Open task
+makes no sense	Not according
+not quite right	Not according
+extra work	Need to implement or it wasn't well implemented
+seems wrong	Not according
+TODO: weird	Open task
+have to be careful	"Need to be safe, Open task"
+CHECKME	Open task
+could be a valid	Open task
+TODO not correct!!	"It is not working or does not work very well, Not according"
+could be	Open task
+TODO	Open task
+Todo: Check!	Open task
+Todo: What?	Misunderstanding
+Todo: how to	"Making Question, Open task"
+TODO: ?delete	"Making Question, Open task"
+TODO: Issue	"Open task, Reporting Issues or problems"
+Todo: link to	Open task
+TODO: Reuse	Open task
+Todo: Replace	Open task
+Todo: not implemented	"Open task, Task should not be done"
+Todo: review	Open task
+Todo: Redo	Open task
+XXX	Open task
+REMIND	Open task
+REVIEW	Open task
+REVISIT	Open task
+REMARK	Open task
+discrepancy	Not according
+Never implemented	Need to implement or it wasn't well implemented
+no sense	Misunderstanding
+not implemented	Need to implement or it wasn't well implemented
+not necessary	"Not needed, Uncertainty about any artifact"
+not really needed	Not needed
+Not recommended	Not according
+Unnecessary code	"Not needed, Unnecessary  or not used code"
+What?	Misunderstanding
+Todo: Why was	"Making Question, Open task"
+TODO: why is this inside a block?	"Inadequate location, Making Question, Open task"
+not seem to define this name	Not according
+I don't think	Not according
+For debugging	Open task
+I don't understant	Misunderstanding
+misunderstanding	Misunderstanding
+Todo: This is probably not the right location	"Inadequate location, Open task"
+Will be able	Open task
+chose not to do this	Open task
+not according	Not according
+is not a valid one	Not according
+Todo: does not handle	"Can causes exception, Open task"
+Todo: Handle	Open task
+TODO: I don't think it's normal	"Human factors, Inadequate location, Not according"
+Todo: This needs more work!	"Difficult to be maintained in the future, It is not working or does not work very well, Open task"
+to be safe	"Need to be safe, Open task"
+take care	Need to be safe
+need to be in their own files?	"Inadequate location, Open task"
+Todo: THIS IS A HACK	"Open task, Reporting Issues or problems"
+defined in the ToDoItem	Open task
+manually created todo item	Open task
+Todo: We could also support	Open task
+problems directly in this class	"Need to implement or it wasn't well implemented, Reporting Issues or problems"
+Needs to be reviewed	Open task
+Needs to be updated	Open task
+Todo: improve the fig finding algorithm	Open task
+Todo: correctly implement	"Need to implement or it wasn't well implemented, Open task"
+Todo: This is a temporary method	"Open task, Temporary solution or workarounds"
+I don't understand	Misunderstanding
+Todo: This is not according	Not according
+Todo: This needs work	"It is not working or does not work very well, Open task"
+Todo: Add implementation	"Need to implement or it wasn't well implemented, Open task"
+Todo: Add	Open task
+Todo: Change	Open task
+Not created yet	Not according
+review	Open task
+to be verified	Open task
+Check	Open task
+implement	Open task
+maybe can be implemented	Need to implement or it wasn't well implemented
+Never implemented	Need to implement or it wasn't well implemented
+is not yet completely implemented	Need to implement or it wasn't well implemented
+to be verified	Open task
+Redo	Open task
+have to	Open task
+has to be	Open task
+have to set	Open task
+Have to add	Open task
+TODO: Do we really have to test	"Open task, Tests to do"
+must be	Open task
+must be resized	Open task
+need to	Open task
+needes to be cleared	Open task
+need to factor	Open task
+need to set	Open task
+Needs to be reviewed	Open task
+Needs to be updated	Open task
+need to jump	Open task
+should be	Open task
+Should be overriden	Open task
+should be visible	Open task
+should be taken out	Open task
+should be fixed	"Open task, Uncorrected known defects or bugs"
+should not be	Open task
+should no longer be used	Open task
+This should NOT be looking	"Open task, Task should not be done"
+Should	Open task
+Should find	Open task
+It should handle	Open task
+Should modify	Open task
+should have	Open task
+to do	Open task
+Will be	Open task
+Will be needed	Open task
+will be replaced	Open task
+Shall	Open task
+must come	Open task
+method is unsafe	"Low/bad external/internal quality of properties, Need to be safe"
+barely understood	Misunderstanding
+Todo: required	Open task
+Todo: Here we should	Open task
+perhaps move to	"Open task, Status of the work"
+ToDoItem	Open task
+ToDoList	Open task
+TODO not correct	"Not according, Open task"
+CHECKME	Open task
+TODO: maybe take here?	"Making Question, Open task"
+TODO maybe it would make	Open task
+should never happen	Not according
+don't know	Misunderstanding
+makes no sense	Not according
+refactor	Open task
+not quite right	Not according
+not reliable	Need to be safe
+wrong	Not according
+not enough	Not according
+currently	Status of the work
+Note: This is temporary	Temporary solution or workarounds
+Future release	Status of the work
+TODO: maybe should stop	"Task should not be done, Uncertainty about any artifact"
+Todo: THIS IS A HACK	"Open task, Reporting Issues or problems"
+A much better way	To do better (improvements)
+would be not to start	"Not according, Task should not be done"
+Future enhancement	To do better (improvements)
+TODO: resolve item	"Open task, Task to be solved"
+not possible to do better	"Inadequate solution, To do better (improvements)"
+temporary solution	Temporary solution or workarounds
+Todo: Is this a good way?	"Inadequate solution, Making Question, Open task, To do better (improvements)"
+Todo: Is this a good way?	"Inadequate solution, Open task, To do better (improvements)"
+later use	Status of the work
+alternative implementation	Temporary solution or workarounds
+probably better ways to implement this	To do better (improvements)
+have to delete it later	"Open task, Status of the work"
+Todo: temporary	"Open task, Temporary solution or workarounds"
+repair	Task to be solved
+should not	Task should not be done
+inherited problems	Reporting Issues or problems
+problems directly in this class	"It is not working or does not work very well, Reporting Issues or problems"
+Is there no better way?	"Making Question, To do better (improvements)"
+temporary	Temporary solution or workarounds
+is not the correct way	"Inadequate solution, To do better (improvements)"
+Would it not better be	To do better (improvements)
+possible future improvement	To do better (improvements)
+not to do this to keep architecture stable	"Task should not be done, Violation of principles of good design"
+This should NOT be looking	Task should not be done
+mistake	Reporting Issues or problems
+not do this?	"Making Question, Task should not be done"
+Todo: improve the fig finding algorithm	"Open task, To do better (improvements)"
+never have	Status of the work
+Todo: This is a temporary method	Temporary solution or workarounds
+must be re-introduced to solve	"Open task, Task to be solved"
+may be optimised	To do better (improvements)
+TODO: Issue	Reporting Issues or problems
+Todo: Which is best?	"Making Question, To do better (improvements)"
+Is there any other way?	"Making Question, To do better (improvements)"
+issue	Reporting Issues or problems
+should not happen	Task should not be done
+in the future	Status of the work
+still has some problems	Reporting Issues or problems
+FIXME: this could be a problem	"Reporting Issues or problems, Something to be fixed"
+caused problem	"Can causes exception, Reporting Issues or problems"
+how do we resolve this?	"Making Question, Task to be solved"
+Find a better way to do this	"Inadequate solution, To do better (improvements)"
+resolve this discrepancy?!	Task to be solved
+Note: this implementation is temporary	Temporary solution or workarounds
+may be better	To do better (improvements)
+Optimization	To do better (improvements)
+TODO: test	Tests to do
+test	Tests to do
+TODO: should add test	Tests to do
+problem	Reporting Issues or problems
+Temporary hack	Temporary solution or workarounds
+Replace this later	"Open task, Status of the work"
+must be a better way	"Open task, To do better (improvements)"
+problem here	Reporting Issues or problems
+This could possibly hurt performance	Performance or Robustness problems
+Future potential optimizations	To do better (improvements)
+resolve	Task to be solved
+TODO: maybe we should resolve	"Open task, Task to be solved"
+should never happen	Task should not be done
+TODO: improve	To do better (improvements)
+could probably do better	To do better (improvements)
+should not happen	Task should not be done
+known problem	Reporting Issues or problems
+should not have	Task should not be done
+future	Status of the work
+should not have	Task should not be done
+TODO: Issue	"Open task, Reporting Issues or problems"
+Todo: The recurrence	Redundancy
+Todo: temporary	Temporary solution or workarounds
+Todo: not implemented	"Open task, Task should not be done"
+Is there no better way?	"Inadequate solution, Making Question, To do better (improvements)"
+Would it not better be	"Inadequate solution, To do better (improvements)"
+Find a better way to do this	"Inadequate solution, To do better (improvements)"
+probably better ways to implement this	"Inadequate solution, To do better (improvements)"
+Problem of performance	Performance or Robustness problems
+Quality problem	"Low/bad external/internal quality of properties, Reporting Issues or problems"
+Slow performance	Performance or Robustness problems
+is there a problem	Reporting Issues or problems
+must be re-introduced to solve	Task to be solved
+may be optimised	To do better (improvements)
+Is there any other way?	"Making Question, To do better (improvements)"
+probably redundant	Redundancy
+Todo: Which is best?	"Making Question, To do better (improvements)"
+caused problem	Reporting Issues or problems
+still has some problems	Reporting Issues or problems
+Todo: has a bad smell	"Code smells, Task to be solved"
+inherited problems	Reporting Issues or problems
+problems directly in	Reporting Issues or problems
+mistake	Reporting Issues or problems
+contains some errors	"Defects or bugs, Reporting Issues or problems"
+Note: This is temporary	Temporary solution or workarounds
+Todo: THIS IS A HACK	"Open task, Reporting Issues or problems"
+A much better way	To do better (improvements)
+problems directly in this class	"Need to implement or it wasn't well implemented, Reporting Issues or problems"
+Is there no better way?	"Making Question, To do better (improvements)"
+good solution?	"Making Question, To do better (improvements)"
+Would it not better be	To do better (improvements)
+Todo: This is a temporary method	"Open task, Temporary solution or workarounds"
+Todo: Fix	"Task to be solved, Uncorrected known defects or bugs"
+improve	To do better (improvements)
+Solve	Task to be solved
+Optimise	To do better (improvements)
+Resolve	Task to be solved
+how do we resolve this?	"Making Question, Task to be solved"
+TODO: resolve item	Task to be solved
+This should NOT be looking	"Open task, Task should not be done"
+should actually not be placed here	"Inadequate location, Task should not be done"
+should not be necessary	Task should not be done
+should not have existed	Task should not be done
+should never	Task should not be done
+should not	Task should not be done
+should not happen	Task should not be done
+not to do this to keep architecture stable	Task should not be done
+doesn't do anything	Task should not be done
+would be better	To do better (improvements)
+would not be	Task should not be done
+redundant	Redundancy
+Temporary	Temporary solution or workarounds
+temporary solution	Temporary solution or workarounds
+possible future improvement	"Status of the work, To do better (improvements)"
+future maintenance	Status of the work
+future potential optimizations	"Status of the work, To do better (improvements)"
+Future release	Status of the work
+in the Future	Status of the work
+Never	Status of the work
+never called	Status of the work
+never have	Status of the work
+Future	Status of the work
+currently not used	"Status of the work, Unnecessary  or not used code"
+Now	Status of the work
+later use	Status of the work
+any more	Status of the work
+probably	Status of the work
+before	Status of the work
+correctly	Status of the work
+incorrectly	Status of the work
+less efficient	Status of the work
+Here	Status of the work
+perhaps	Status of the work
+perhaps move to	"Open task, Status of the work"
+Yet	Status of the work
+Not necessarily	Status of the work
+directly	Status of the work
+:/	"Human factors, Symbol expressing emotions"
+:(	"Human factors, Symbol expressing emotions"
+:o	"Human factors, Symbol expressing emotions"
+ASAP	Status of the work
+Optimization	To do better (improvements)
+TODO: improve	To do better (improvements)
+timing-dependent	Performance or Robustness problems
+TODO: maybe we should resolve	Task to be solved
+known problem	Reporting Issues or problems
+consume very large	Performance or Robustness problems
+should not have	Task should not be done
+nobody is using	Unnecessary  or not used code
+TODO: maybe should stop	"Task should not be done, Uncertainty about any artifact"
+memory cosuming	Unnecessary time or memory consuming
+all memory allocated	Unnecessary time or memory consuming
+never called	Unnecessary  or not used code
+Todo: Maybe	Uncertainty about any artifact
+?	Uncertainty about any artifact
+Todo: Not sure we need to do this	"Open task, Uncertainty about any artifact"
+maybe can be implemented	"Need to implement or it wasn't well implemented, Uncertainty about any artifact"
+should be fixed	"Open task, Uncorrected known defects or bugs"
+Todo: What?	Uncertainty about any artifact
+Don't appear to be used	Unnecessary  or not used code
+no faults are fixed	Uncorrected known defects or bugs
+?	Uncertainty about any artifact
+not to do this to keep architecture stable	"Task should not be done, Violation of principles of good design"
+not seem to define this name	Violation of principles of good design
+not yet used	Unnecessary  or not used code
+not sure why	Uncertainty about any artifact
+?	Uncertainty about any artifact
+Todo: ??	Uncertainty about any artifact
+code is not used	"Difficult to be maintained in the future, Unnecessary  or not used code"
+Todo: Fix	Uncorrected known defects or bugs
+Todo: FIx	Uncorrected known defects or bugs
+Todo: Fix	Uncorrected known defects or bugs
+REVIEW Maybe this should be	"Open task, Uncertainty about any artifact"
+Note: This class is messy	Violation of principles of good design
+not sure	Uncertainty about any artifact
+could decouple	Violation of principles of good design
+could fix	Uncorrected known defects or bugs
+consume very large	Unnecessary time or memory consuming
+completely unnecessary	Unnecessary  or not used code
+TODO: maybe	"Open task, Uncertainty about any artifact"
+TODO: maybe	"Open task, Uncertainty about any artifact"
+TODO: Maybe	"Open task, Uncertainty about any artifact"
+?	Uncertainty about any artifact
+TODO: maybe	Uncertainty about any artifact
+?	Uncertainty about any artifact
+TODO: maybe	Uncertainty about any artifact
+?	Uncertainty about any artifact
+TODO: maybe we should test	"Tests to do, Uncertainty about any artifact"
+TODO maybe it would make	"Open task, Uncertainty about any artifact"
+?	Uncertainty about any artifact
+will never be	Unnecessary  or not used code
+Todo: Maybe	Uncertainty about any artifact
+FIXME	Something to be fixed
+god class	"Code smells, Violation of principles of good design"
+Harder to fix	"Difficult to be maintained in the future, Uncorrected known defects or bugs"
+large class	"Difficult to be maintained in the future, Violation of principles of good design"
+large coupled	"Difficult to be maintained in the future, Violation of principles of good design"
+maybe	Uncertainty about any artifact
+not sure	Uncertainty about any artifact
+Unnecessary code	"Not needed, Unnecessary  or not used code"
+Violation of modularity	Violation of modularity
+Don't appear to be used	"Difficult to be maintained in the future, Unnecessary  or not used code"
+code is not used	"Difficult to be maintained in the future, Unnecessary  or not used code"
+no faults are fixed	"Defects or bugs, Uncorrected known defects or bugs"
+dependency cycle	Violation of principles of good design
+nobody is using	Unnecessary  or not used code
+let's be sure	Uncertainty about any artifact
+not sure why	Uncertainty about any artifact
+memory cosuming	Unnecessary time or memory consuming
+not are useful here	"Inadequate location, Unnecessary  or not used code"
+Time consuming	Unnecessary time or memory consuming
+TODO: maybe should stop	Uncertainty about any artifact
+changes the complete structure	Violation of principles of good design
+Todo: This probably belongs	"Inadequate location, Uncertainty about any artifact"
+Todo: Is this required?	"Making Question, Uncertainty about any artifact"
+Todo: Does this help?	"Making Question, Uncertainty about any artifact"
+What to do	Uncertainty about any artifact
+fix	Uncorrected known defects or bugs
+Todo: Fix	"Task to be solved, Uncorrected known defects or bugs"
+no faults are fixed	Uncorrected known defects or bugs
+Repair	Uncorrected known defects or bugs
+Todo: Not sure we need to do this	Uncertainty about any artifact
+should be fixed	"Open task, Uncorrected known defects or bugs"
+all memory allocated	Unnecessary time or memory consuming
+confusing name	Violation of principles of good design

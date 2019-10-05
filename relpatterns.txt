@@ -1,0 +1,699 @@
+-	TODO
+-	FIXME
+-	XXX
+-	HACK
+-	REMIND
+-	REVIEW
+-	REVISIT
+-	NOTE
+-	REMARK
+-	CHECKME
+"Todo, ?"	Todo: ?
+"Todo, Check"	Todo: Check!
+"Todo, Test"	TODO: Test
+Todo	TODO: Here too?
+Todo	TODO: Why
+"Todo, What?"	Todo: What?
+Todo	Todo: how to
+"Todo, ?, delete"	TODO: ?delete
+"Todo, issue"	TODO: Issue
+"Todo, make"	Todo: Make
+"Todo,  maybe"	Todo: maybe
+Todo	Todo: The recurrence
+Todo	Todo: link to
+"Todo, reuse"	TODO: Reuse
+"Todo, temporary"	Todo: temporary
+"Todo, replace"	Todo: Replace
+"Todo, should define"	Todo: Should difine
+"Todo, not implemented"	Todo: not implemented
+"Todo, split"	Todo: split
+"Todo, move"	Todo: move
+"Todo,  verify"	Todo: verify
+"Todo, ?"	Todo: ??
+"Todo, review"	Todo: review
+"Todo, redo"	Todo: Redo
+"Todo, improve"	TODO: improve
+"Todo, not correct"	TODO not correct
+Todo	Todo: Not
+"Todo, should be"	Todo: really should be
+Should	should not
+"Todo, Should have"	Todo: should have
+would be	would be not to start
+"should, fail"	should fail
+"try, remove"	tried to remove
+should	should probably go
+"Todo, rework"	Todo: Rework 
+-	do all following steps
+bad	rather bad hash solution
+"Todo, use"	Todo Use
+"Todo, can"	Todo: Can
+"Need to, change"	need to change
+"Will be, move"	will be moving
+can be	can be used instead
+slow	slows things down
+could	could probably be
+-	is needed
+Todo	Todo: how to handle
+"can, remove"	can remove
+should	should attempt
+-	public?
+-	cause exception
+huge	huge challenge
+Note	Note: code duplicates
+Note	Note: This class has gotten too big
+"Todo, not friendly"	TODO: is not friendly
+Note	Note: this try/catch block is copied from
+"XXX, Deprecated"	XXX: deprecated
+large	too large
+bug	see bug
+bug	seems to be a bug
+"Workaround, bug"	workaround the bug
+"stupid, error"	stupid error
+"Todo, would be"	TODO: would be better to refactor
+"intentionally, fail"	intentionally fails
+"test, fail"	test will fail
+"Note, senseless"	Note: senseless
+-	do not support
+broken	broken archive
+broken	This is broken
+incorrectly	incorrectly caches
+"Note, incorrect, here"	Note: incorrect here
+currently	are not currently expored
+"can, never"	can never be
+Todo	TODO: What to do
+"Note, inefficient"	Note: this is inefficient
+"XXX, here"	XXX: does this really belong here?
+stupid	stupid scrollbar
+break	break the action
+"dirty, hack"	dirty hack
+bullshit	need this bullshit
+"bad, hack"	bad hack
+"stupid, hack"	stupid hack
+silly	seems silly
+-	find a better place
+"Todo, have to, here"	TODO: this has to be here
+could be	could be more efficient
+-	won't work
+"Todo, broken"	TODO broken
+should be	should be enough
+Todo	TODO labels??
+Todo	TODO specification?
+-	Is this correct?
+-	Does this help?
+Todo	TODO: valid?
+Todo	Todo: constraints 
+"must, assemble"	must assemble
+"Review, maybe, should be"	REVIEW Maybe this should be
+"need to, re-evaluate"	needs to re-evaluate 
+-	need to eliminate
+"Note, should"	Note: we should implement
+"Note, could"	could override this method
+Should be	should be overridden
+Note	Note: need
+"Note, could"	Note: could eliminate
+"Note, Should"	Note: should
+"need to be, rewritten"	need to be rewritten
+"Todo, need to"	TODO: need to add
+"XXX, clean up"	XXX clean up
+-	XXXX re-evaluate
+"replace, later"	Replace this later
+"hack, fix"	hack to get fix
+"hack, move"	hack to move
+hack	hack to work
+"hack, avoid"	hack to avoid
+must be	must be a better way
+"Fixme, check"	FIXME: check
+"Fixme, rename"	FIXME: rename
+"Fixme, use"	FIXME: use 
+"hack, find"	hack: find
+"Todo, refactor"	TODO: refactor
+"should, make"	should make
+Need to	need to validate
+"todo, weird"	TODO: weird
+"have to, careful"	have to be careful 
+could be	could be a valid
+discrepancy	resolve this discrepancy?
+"Note, temporary"	Note: this implementation is temporary
+may be	may be better
+"Todo, should, add"	TODO: should add test
+"temporary, hack"	Temporary hack 
+"todo, maybe, should, test"	TODO: maybe we should test
+"could, decouple"	could decouple
+"could, fix"	could fix
+unnecessary	completely unnecessary
+will be	will be longer
+"Todo, wtf"	TODO: wtf
+-	cannot be called
+"problem, here"	problem here
+bad	Bad code
+no better	Is there no better way?
+Todo	TODO: Is this needed?
+"Todo, Is this correct?"	TODO: Is this correct?
+Todo	Todo: Does this help?
+No better	Would it not better be
+-	Find a better way to do this
+-	not possible to do better
+Todo	Todo: Is this a good way?
+-	probably better ways to implement this
+not correct	is not the correct way
+not correct	not entirely correct
+-	other way to implement
+-	could probably do better
+-	big arrays
+-	Clean Up
+Clone	clone code
+Future	Future enhancement
+error	Ignore the error
+error	It 's an error
+-	god class
+Fix	Harder to fix
+Large	large class
+Never	Never implemented
+-	no sense
+-	not implemented
+necessary	not necessary
+-	not really needed
+problem	Quality problem
+Slow	Slow performance
+test	test score for nothing
+tired	tired to think
+Unnecessary	Unnecessary code
+-	Violation of modularity
+-	What?
+-	What do we do
+-	What about?
+-	Don't appear to be used
+not used	not used in the new APIs
+-	not used
+not used	code is not used
+-	no faults are fixed
+-	not work
+"Todo, check"	TODO: check if this works
+"Todo, dependency"	cyclic dependency
+dependency	dependency cycle
+Why	Why is this not done
+"Todo, Why?"	Todo: Why do I need to do this?
+Why?	Why are these gone?
+Why	Why is it here?
+"Todo, Why?"	Todo: Why is this here?
+Why?	why synchronized?
+"Todo, Why?"	Todo: Why was
+"Todo, Why?"	TODO: why is this inside a block?
+"Todo, Why?"	Todo: Why does it fail
+-	causes and exception
+define	not seem to define this name
+-	show some documentation?
+here	Not are useful here
+-	nobody is using
+-	nobody ever looks
+problem	is there a problem
+-	I don't think
+Todo	Todo: Work in progress here
+-	For debugging
+-	let's be sure
+-	I don't understant
+-	misunderstanding
+"Why?, not sure"	not sure why
+-	It causes the feedback loop
+"must be, solve"	must be re-introduced to solve
+may be	may be optimised
+-	Is there any other way?
+Todo	Todo: This is probably not the right location
+Will be	Will be able 
+redundant	probably redundant
+-	it is used in several places
+clone	clone of this code
+Copy	Need to Copy
+-	chose not to do this
+Todo	Todo: Which is best? 
+bug	This is a bug
+issue	cause issue
+-	not according
+-	is not a valid one
+-	is slightly different than what's documented
+problem	caused problem
+problem	still has some problems
+Todo	Todo: does not handle
+Todo	Todo: Handle
+Todo	TODO: I don't think it's normal 
+"Todo, bad smell"	Todo: has a bad smell
+-	THIS IS A HACK
+-	memory cosuming
+Todo	Todo: This needs more work!
+"Todo, not work"	Todo: does not work
+-	to be safe
+-	take care
+problem	inherited problems
+problem	problems directly in
+error	contains some errors
+"FIXME, problem"	FIXME: this could be a problem
+-	Low code coverage
+bad	Bad coding practies
+-	Time consuming
+-	Deficiency in testing activities
+-	necessity of understanding
+here	Work in progress here
+"Note, temporary"	Note: This is temporary
+"Todo, maybe, should"	TODO: maybe should stop
+Need to	need to be in their own files? 
+"Todo, This is a hack"	Todo: THIS IS A HACK
+-	A much better way
+critic	the critic in the first place
+ToDoItem	defined in the ToDoItem
+change	changes the complete structure
+-	Who is calling this?
+todoitem	manually created todo item
+todo	Todo: This probably belongs
+-	needs documenting
+required	Information that is required
+"replace, deprecated"	replace the deprecated
+not used	currently not used
+-	not support Java 1.3 any more
+need to	needs to be fixed
+"Todo, could"	Todo: We could also support
+"problem, directly"	problems directly in this class
+"need to, here"	need to do anything here?
+-	good solution?
+todo	Todo: improve the fig finding algorithm
+To do	What to do
+"Note, maybe"	Note: maybe
+todo	Todo: correctly implement
+"Todo, temporary"	Todo: This is a temporary method
+-	I don't understand
+"todo, not according"	Todo: This is not according
+Todo	Todo: This needs work
+dependency	unwanted dependency
+-	all memory allocated
+-	to free memory
+-	Suggestions for solutions
+"workaround, bug"	bug workaround
+"workaround, bug"	Workaround for a bug
+-	this sucks
+-	timing-dependent
+"Todo, maybe, should"	TODO: maybe we should resolve
+"Todo, maybe"	TODO: maybe take here?
+"Todo, maybe, would"	TODO maybe it would make 
+Should	should never happen
+-	don't know
+"will, never"	will never be
+no sense	makes no sense
+problem	known problem
+-	is not enough
+-	make sense?
+-	broken down
+"horribly, Inefficient"	horribly Inefficient
+Large	consume very large
+-	modular violation
+-	is not quite right
+large	large coupled
+-	Not recommended
+-	not sure
+problem	Problem of performance
+need to	needes to be cleared
+need to	need to factor
+Should be	Should be overriden
+Should	should no longer be used
+Should	should not have existed
+Barely	barely understood
+-	bad smell
+deprecated	deprecated code
+deprecated	deprecated api
+Would be	would be better
+-	bullshit
+bug	probably a bug
+"Todo, add"	Todo: Add implementation
+"Todo, add"	Todo: Add
+"Todo, fix"	Todo: Fix
+remove	Remove All
+remove	remove dependencies later
+remove	Remove the dependent
+remove	remove literal
+move	move to the correct owner
+change	Todo: Change
+Need to	Need to be amended
+Need to be	Need to be updated
+-	Not created yet
+deprecated	deprecated call
+-	to be verified
+"Todo, check"	Todo: Check the name
+maybe	maybe can be implemented
+-	is not yet completely implemented
+-	not yet used
+update	is not updated
+resolve	how do we resolve this?
+"Todo, resolve"	TODO: resolve item
+Have to	has to be
+Have to	have to set
+Have to	have to move
+Have to	Have to add
+"Todo, Have to"	TODO: Do we really have to test
+"Have to, delete"	have to delete it later
+Have to	Have to do
+Must be	must be resized
+"Need to, clone"	need to clone
+Need to	need to refactor
+Need to	need to set
+Need to	Needs to be reviewed
+need to	Needs to be updated
+"Need to, to be moved"	need to be moved someplace useful
+-	to be moved
+Need to	need to be
+"Todo, Need to, not sure, to do"	Todo: Not sure we need to do this
+Need to	need to jump
+Should be	should be visible
+"Why, Should"	Why should it pass?
+Should be	should be taken out
+Should be	don't think we should be
+Should be	should be fixed
+Should not be	This should NOT be looking
+Should not be	should actually not be placed here
+Should not be	should not be necessary
+should	should not happen
+should	should not have
+To do	not to do this to keep architecture stable
+-	doesn't do anything
+To do	not do this?
+Will be	Will be needed
+"Shall, never"	shall never
+Should	Should find
+Should	It should handle 
+Should	Should modify
+Here	here?
+"Todo, Here"	Todo: Here we should
+"will be, Hard"	Will be hard work
+Arbitrary	arbitrary dimensions
+inconsistent	somewhat inconsistent
+unsafe	method is unsafe
+"Dirty, fix"	Dirty fix
+temporary	temporary solution
+Future	possible future improvement
+Future	future maintenance
+Future	future potential optimizations
+Future	Future release
+Future	in the Future
+"unnecessarily, complicated"	unnecessarily complicated
+complicated	This case is complicated
+"Todo, required"	Todo: required
+"Todo, required"	TODO: Is this required?
+"remove, duplicate"	Remove duplicates
+not right	not quite right
+-	get confused
+-	confusing name
+long	Code so long?
+difficult	difficult to maintain
+extra	extra work
+perhaps	perhaps move to
+"Fail, test"	fails the test
+"can, Fail"	can fail
+Fail	assert fails
+Fail	complete fail
+"can, never"	can never happen
+never	never called
+never	never have
+repeated	repeated code
+bad	rather bad
+-	alternative implementation
+expensive	very expensive
+"Note, loose"	Note: loose type
+Note	Note: kind of far-fetched
+"Note, messy"	Note: This class is messy
+"XXX, hairy"	XXX: hairy code
+"Should be, careful"	Should be careful
+impossible	plainly impossible
+bug	binding bug
+-	This is not a sufficient
+weird	weird hack
+can be	can be expensive
+could	This could possibly hurt performance
+test	is not reliable as a unit test
+opaque	fully opaque
+wrong	seems wrong 
+todo	Todo: implement this
+"todo, overlap"	Todo: Party overlaps
+"todo, update"	Todo: Update
+can be	can be deleted
+can	can probably have
+clone	clone method
+-	have not the means
+have to	have to use
+later	later use
+must be	must be moved
+must come	must come before
+must	must notify modification
+-	need a more language/notation
+need to	need to check
+need to	need to extend
+need to	need to listen
+need to	need to verify
+todo	TODO: indicate the direction!
+will be	will be useful
+would	would seem to imply
+will be	will be replaced
+update	update the model
+dependent	Calls are ORDER DEPENDENT
+-	can't contain
+-	Do we need
+-	loops are double
+may be	may be no need
+-	Nothing to be done
+remove	"now remove the pool, too"
+-	reduce the number
+-	references to elements of other packages?
+should	Should define
+"will, cause"	will cause
+-	good idea?
+-	add
+-	fix
+-	remove
+-	move
+-	change
+-	create
+-	read
+-	modify 
+-	Replace
+-	Verify
+-	improve
+-	implement
+-	Support
+-	Repair
+-	Rework
+-	Cause
+-	update
+-	Try
+-	Solve
+-	Optimise
+-	Copy
+-	rebuild
+-	Resolve
+-	Indicate
+-	Reuse
+-	Split
+-	Redo
+-	jump
+-	rename
+-	return
+-	allocate
+-	find
+-	use
+-	handle
+-	re-evaluate
+-	remember
+-	ignore
+-	assemble
+-	explore
+-	override 
+-	look for
+-	break
+-	rewritten
+-	make
+-	leave
+-	avoid
+-	define
+-	decouple
+-	consume
+-	execute
+-	test
+-	review
+-	insert
+-	perform
+-	Eliminate
+-	check
+-	refactor
+-	delete
+-	debug
+-	overlap
+-	follow
+-	amend
+-	require
+can	can be
+may	may be
+might	might be
+"may, remove"	May remove
+-	have to
+must	must be
+-	need to
+should	should be
+should	should not be
+should	should have
+-	to do
+would	would be
+would	would not be
+will	will be
+must	must come 
+will	will not be
+-	won't be
+could	could be
+would	would have
+"should, never"	should never
+must	must have
+may	may have
+may	may return
+should	should allow
+should	should use
+-	can
+-	shall
+-	will
+-	must
+-	should
+-	would
+-	could
+-	may
+-	might
+-	Blind
+-	Drab
+-	Nebulous
+-	Tense
+-	Hard
+-	heavy
+-	wrong
+-	arbitrary
+-	missing
+-	inadequate
+-	incomplete
+-	unnecessary
+-	Necessary
+-	slow
+-	dangerous
+-	erratic
+-	inconsistent
+-	obsolete
+-	unprepared
+-	Unsafe 
+-	inefficient
+-	undocumented 
+-	not friendly
+-	not clear
+-	large
+-	dirty
+-	not better
+-	provisional
+-	Temporary
+-	Deprecated
+-	tired
+-	Critic
+-	complicated
+-	not correct
+-	not stable
+-	Strange
+-	Duplicate
+-	not right
+-	Confuse
+-	unwanted 
+-	bad
+-	Long
+-	uncommented
+-	undocumented
+-	Old
+-	difficult
+-	loose
+-	far-fetched
+-	messy
+-	hairy
+-	careful
+-	impossible
+-	binding
+-	not sufficient
+-	weird
+-	expensive
+-	hurt
+-	not reliable
+-	opaque
+-	extra
+-	dependent
+-	repeated
+-	incorrect
+-	fatal
+-	uncool
+-	unhappy
+-	ugly
+-	silly
+-	senseless
+-	stupid
+-	retarded
+-	unclean
+-	redundant
+-	broken
+-	no better
+-	required
+-	unnecessarily
+-	Forgotten
+-	contradict 
+-	huge
+-	Currently
+-	Now
+-	later
+-	any more
+-	probably
+-	before
+-	correctly
+-	incorrectly
+-	less
+-	less efficient
+-	Here
+-	perhaps
+-	Yet
+-	Really
+-	not necessarily
+-	directly
+-	anymore
+-	somewhere
+-	someplace
+-	instead
+-	more
+-	horribly
+-	too
+-	intentionally
+-	fully
+-	not enough
+-	barely
+-	Future
+-	maybe
+-	Never
+-	Why
+-	Why?
+-	?
+-	:/
+-	:(
+-	:o
+-	wtf
+-	trap
+-	ToDoItem
+-	ToDoList
+-	ASAP
+-	hardcode
+-	error
+-	mistake
+-	problem
+-	fail
+-	discrepancy
+-	Optimization
+-	workaround
+-	Bug
+-	limitation
+-	Deadlock
+-	defect
+-	enhancements
+-	issue
+-	dependency
+-	clone
+-	warning

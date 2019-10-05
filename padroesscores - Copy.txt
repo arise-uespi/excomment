@@ -1,0 +1,616 @@
+Todo: What?	4.00
+Todo: not implemented	4.00
+Todo: correctly implement	4.00
+all memory allocated	4.00
+Todo: does not work!	4.00
+cause issue	4.00
+causes and exception	4.00
+Todo: Is this needed?	4.00
+contains some errors	4.00
+Todo: Redo	4.00
+defined in the ToDoItem	4.00
+Todo: This needs more work!	4.00
+Dirty fix	4.00
+the trap	4.00
+is not a valid one	4.00
+Todo: Add implementation	4.00
+Todo: Check the name	4.00
+Todo: implement this	4.00
+is not yet completely implemented	4.00
+Todo: needs documenting	4.00
+issue	4.00
+Todo: Party overlaps	4.00
+It 's an error	4.00
+Todo: split into	4.00
+memory cosuming	4.00
+Todo: This is a temporary method	4.00
+must be resized	4.00
+Todo: Update	4.00
+need to be 	4.00
+Todo: Why is this here? 	4.00
+This case is complicated	4.00
+need to be in their own files? 	4.00
+This is a bug	4.00
+need to be moved someplace useful	4.00
+Todo: Check	4.00
+Needs to be reviewed/updated.	4.00
+Todo: has a bad smell	4.00
+not support Java 1.3 any more	4.00
+Todo: improve the fig finding algorithm	4.00
+Note: This is temporary	4.00
+TODO: maybe should stop	4.00
+"now remove the pool, too."	4.00
+Todo: Not	4.00
+needs to be fixed	4.00
+Todo: Not sure we need to do this	4.00
+shall never	4.00
+Todo: really should be	4.00
+should actually not be placed here	4.00
+TODO: resolve item	4.00
+should be fixed	4.00
+Todo: temporary	4.00
+should find	2.00
+other way to implement	3.00
+Todo: THIS IS A HACK	4.00
+Should modify	4.00
+Todo: This is not according	4.00
+should not	4.00
+Todo: This needs work	4.00
+somewhat inconsistent	4.00
+Todo: We could also support	4.00
+still has some problems	4.00
+Todo: Why does it fail	4.00
+temporary	4.00
+temporary solution	4.00
+replace the above deprecated	4.00
+Todo: should have	3.50
+Todo: Replace	3.50
+not work	3.50
+Todo: Fix	3.50
+less efficient	3.00
+Do we need	3.00
+move	3.00
+nobody ever looks	3.00
+Todo: Is this needed?	3.00
+Todo: Is this correct?	3.00
+nobody is using	3.00
+TODO: Reuse	3.00
+not entirely correct	3.00
+deprecated call	3.50
+not possible to do better	3.00
+is slightly different than what's documented.	3.00
+Don't appear to be used	3.00
+Todo: Maybe	3.00
+not sure why	3.00
+may return	3.00
+error	3.00
+mistake	3.00
+fails the test	3.00
+Todo: This is probably not the right location	3.00
+possible future improvement	3.00
+Todo: Which is best?	3.00
+probably better ways to implement this	3.00
+What to do	3.00
+probably redundant	3.00
+Todo: move to	3.00
+problems directly in this class	3.00
+Todo: link to	3.00
+Find a better way to do this	3.00
+Todo: move to	3.00
+Remove the dependent	3.00
+may be optimised	3.00
+repair	3.00
+need to extend	3.00
+Will be needed	3.00
+never happen	3.00
+would be not to start	3.00
+Todo: The recurrence	3.00
+deprecated	3.00
+FIXME: this could be a problem	3.00
+need to 	3.00
+Forgotteh	3.00
+assert fails	3.00
+should be taken out	3.00
+Todo: Why do I need to do this?	3.00
+should fail	3.00
+tried to remove	3.00
+Future enhancement	3.00
+Why are these gone?	3.00
+Future release	3.00
+Todo: implement this!	3.00
+have to add	3.00
+Todo: Is this a good way?	3.00
+should probably go	3.00
+It causes an unwanted dependency	3.00
+show some documentation?	3.00
+Todo: Make	3.00
+move to the correct owner	3.00
+can be deleted	3.00
+have to move	3.00
+It should handle 	3.00
+Suggestions for solutions	3.00
+loops are double	3.00
+have to use	3.00
+may have	3.00
+here?	3.00
+maybe can be implemented	3.00
+how do we resolve this?	3.00
+"can never happen, isn't it?"	3.00
+Information that is required	3.00
+Todo: Rework	3.00
+inherited problems	3.00
+method is unsafe	3.00
+Calls are ORDER DEPENDENT	3.00
+Todo: Test this	3.00
+to be moved	3.00
+TODO: There is a cyclic dependency 	3.00
+to be safe	3.00
+must be moved	3.00
+to the correct owner	3.00
+must come before	3.00
+TODO: add	3.00
+Necessary	3.00
+is not the correct way	3.00
+Todo: This probably belongs	3.00
+Todo: Change	3.00
+Todo: verify this	3.00
+Todo: check	3.00
+Need to be amended	3.00
+is not updated	3.00
+Todo: Why	3.00
+changes the complete structure	3.00
+do all following steps	3.00
+TODO: Do we really have to test	3.00
+TODO: why is this inside a block?	3.00
+Todo: does not handle	3.00
+unnecessarily complicated	3.00
+Why should it pass?	3.00
+Who is calling this?	3.00
+Will be hard work	3.00
+no faults are fixed	3.00
+Todo: Here we should	3.00
+need to clone	3.00
+Code so long?	3.00
+should not be	3.00
+required	2.00
+rather bad hash solution	3.00
+need to set	2.67
+Have to	2.60
+duplicate	2.50
+need to	2.50
+Should be	2.50
+Todo: Why was	2.50
+for debugging	2.00
+must be re-introduced to solve	2.00
+Why is this not done	2.00
+alternative implementation	2.00
+later use	2.00
+need a more language/notation	2.00
+must notify modification	2.00
+Strange	2.00
+will be replaced	2.00
+doesn't do anything	2.00
+it is used in several places	2.00
+This should NOT be looking	2.00
+remove dependencies later	2.00
+I chose not to do this	2.00
+manually created todo item	2.00
+don't think we should be	2.00
+the critic in the first place	2.00
+to be verified	2.00
+will be able	2.00
+I don't understand	2.00
+would seem to imply	2.00
+Todo Use	2.00
+perhaps move to	2.00
+Todo: ?	2.00
+Todo: review	2.00
+TODO: ?delete	2.00
+reduce the number	2.00
+Remove duplicates	2.00
+Replace	2.00
+Todo: Can	2.00
+dependency cycle	2.00
+need to change	2.00
+A much better way	2.00
+Need to copy	2.00
+why synchronized?	2.00
+need to do anything here?	2.00
+will be moving	2.00
+can be used instead	2.00
+slows things down	2.00
+need to listen	2.00
+not used in the new APIs	2.00
+could probably be	2.00
+Todo: Handle	2.00
+critic	2.00
+need to verify	2.00
+fix	2.00
+Todo: Here too?	2.00
+currently	2.00
+is needed	2.00
+rebuild	2.00
+Todo: how to handle	2.00
+Remember	2.00
+TODO: I don't think it's normal	2.00
+take care	3.00
+remove literal	2.00
+never have	2.00
+Rename	2.00
+TODO: indicate the direction!	2.00
+can remove	2.00
+should attempt	2.00
+hardcoded	2.00
+May remove	2.00
+has to be	2.00
+get confused	2.00
+clone of this code	2.00
+What do we do	2.00
+Eventually we would rather	2.00
+uncommented	2.00
+None exists yet	2.00
+What about?	2.00
+Todo: Is this required?	2.00
+should not be necessary	2.00
+TODO: Issue	2.00
+Why is it here?	2.00
+not are useful here	2.00
+should use	2.00
+Not created yet	2.00
+Why?	2.00
+not do this?	2.00
+fail	2.00
+must be	2.00
+contradict	2.00
+will be useful	2.00
+Is there any other way?	2.00
+Would it not better be	2.00
+Is there no better way?	2.00
+not to do this to keep architecture stable	2.00
+Is this a good solution?	2.00
+Todo	1.88
+remove	1.64
+should not happen	1.50
+let's be sure	1.50
+Remark	1.33
+Note	1.25
+Could be	1.00
+not seem to define this name	1.00
+references to elements of other packages?	1.00
+may be no need	1.00
+I don't think	1.00
+need to jump	1.00
+public?	1.00
+Todo: Should difine	1.00
+Not necessarily	1.00
+to do	1.00
+is currently not used	1.00
+It causes the feedback loop	1.00
+Todo: move	1.00
+Todo: ??	1.00
+Todo: Work in progress here	1.00
+Check	1.00
+must have	1.00
+never called	1.00
+update the model	1.00
+can't contain	1.00
+should allow	1.00
+Why	1.00
+Todo: Does this help?	1.00
+cause exception	1.00
+clone method	1.00
+allow multiple details	1.00
+can probably have	1.00
+in the future	1.00
+code is not used	1.00
+code is not yet used	1.00
+need to check	1.00
+should be visible	1.00
+arbitrary dimensions	1.00
+?	0.92
+FIXME	1.88
+XXX	1.88
+HACK	1.88
+REMIND	1.88
+REVIEW	1.88
+REVISIT	1.88
+CHECKME	1.88
+TODO: improve	3.00
+TODO not correct	3.00
+a problem here	3.00
+Bad code	3.00
+could probably do better	3.00
+big arrays	2.00
+Clean Up	1.00
+clone code	2.50
+Ignore the error	4.00
+god class	3.00
+Harder to fix	3.00
+large class	3.00
+Never implemented	3.00
+no sense	2.50
+not implemented	3.00
+not necessary	3.00
+not really needed	2.50
+Quality problem	3.00
+Slow performance	3.00
+test score for nothing	1.00
+tired to think	2.00
+Unnecessary code	2.00
+Violation of modularity	4.00
+What?	3.00
+TODO: check if this works	4.00
+is there a problem	2.50
+I don't understant	2.50
+misunderstanding	2.50
+not according	2.00
+THIS IS A HACK	4.00
+problems directly in	3.00
+Low code coverage	3.00
+Bad coding practies	4.00
+Time consuming	2.50
+Deficiency in testing activities	4.00
+necessity of understanding	2.00
+Work in progress here	4.00
+bug workaround	4.00
+Workaround for a bug	4.00
+this sucks	4.00
+timing-dependent	2.00
+TODO: maybe we should resolve	3.00
+TODO: maybe take here?	2.50
+TODO maybe it would make	2.00
+I don't know	2.00
+will never be	3.00
+makes no sense	3.00
+known problem	3.00
+is not enough	2.00
+make sense?	2.50
+broken down	2.00
+horribly Inefficient	4.00
+consume very large	3.00
+modular violation	3.00
+is not quite right	2.00
+large coupled	3.00
+Not recommended	1.00
+not sure	2.00
+Problem of performance	4.00
+needes to be cleared	4.00
+need to factor	3.00
+Should be overriden	3.00
+should no longer be used	3.00
+should not have existed	3.00
+barely understood	3.00
+bad smells	3.50
+deprecated code	3.50
+deprecated api	3.50
+would be better	3.00
+bullshit	3.00
+probably a bug	4.00
+Remove All	1.00
+have to set	3.00
+Have to do	3.00
+need to refactor	4.00
+Need to be updated	3.50
+needs to be moved someplace useful	4.00
+should not have	3.00
+future maintenance	3.00
+future potential optimizations	3.00
+Todo: required	3.00
+not quite right	1.50
+confusing name	2.50
+difficult to maintain	4.00
+extra work	4.00
+can fail	2.50
+repeated code	2.50
+rather bad	3.00
+possibly very expensive	2.50
+Note: loose type	2.00
+Note: kind of far-fetched	2.00
+Note: This class is messy	3.00
+XXX: hairy code	4.00
+Should be careful	3.00
+plainly impossible	3.50
+binding bug	3.00
+This is not a sufficient	3.00
+weird hack	2.50
+can be expensive	2.50
+This could possibly hurt performance	3.00
+is not reliable as a unit test	3.00
+fully opaque	3.00
+seems wrong	3.00
+have not the means	1.00
+Nothing to be done	2.00
+Should define	2.50
+huge challenge	2.50
+add	-5.00
+change	-5.00
+create	-5.00
+read	-5.00
+modify	-5.00
+Verify	-5.00
+improve	-5.00
+implement	-5.00
+Support	-5.00
+Rework	1.50
+Cause	-5.00
+update	-5.00
+Try	-5.00
+Solve	-5.00
+Optimised	-5.00
+Copy	-5.00
+Resolve	-5.00
+Indicate	-5.00
+Reuse	1.00
+Split	-5.00
+Redo	1.50
+Jump	-5.00
+return	-5.00
+allocate	-5.00
+Find	-5.00
+Use	-5.00
+Handle	-5.00
+Re-evaluate	1.00
+ignore	-5.00
+assemble	-5.00
+explore	-5.00
+override	1.50
+Look for	-5.00
+break	-5.00
+rewritten	1.50
+make	-5.00
+leave	-5.00
+avoid	-5.00
+Define	-5.00
+decouple	-5.00
+consume	-5.00
+execute	-5.00
+clone	1.00
+test	-5.00
+review	-5.00
+insert	-5.00
+perform	-5.00
+Eliminate	-5.00
+refactor	1.50
+delete	-5.00
+Debug	-5.00
+overlap	1.50
+follow	-5.00
+amend	-5.00
+Require	-5.00
+Can be	2.00
+May be	2.00
+might be	2.00
+should have	2.00
+would be	2.00
+must come	2.00
+Will not be	2.00
+Won't be	2.00
+would have	2.00
+should never	2.00
+Can	1.50
+Shall	1.50
+Will	1.50
+Must	1.50
+Should	1.50
+Would	1.50
+Could	1.50
+may	1.50
+might	1.50
+Open	-5.00
+Blind	-5.00
+Drab	-5.00
+Nebulous	1.50
+Tense	1.50
+Hard	1.50
+heavy	1.50
+wrong	1.50
+arbitrary	1.50
+missing	1.50
+inadequate	1.50
+incomplete	1.50
+unnecessary	1.50
+slow	1.50
+dangerous	1.50
+erratic	1.50
+inconsistent	1.50
+obsolete	1.50
+unprepared	1.50
+Unsafe	1.50
+inefficient	1.50
+undocumented	1.50
+not friendly	1.50
+not clear	1.50
+large	1.50
+dirty	1.50
+not better	1.50
+provisional	1.50
+tired	1.50
+complicated	1.50
+not correct	1.50
+not stable	1.50
+not right	1.50
+Confuse	1.50
+unwanted	1.50
+bad	1.50
+Long	1.50
+undocumented	1.50
+Old	1.50
+difficult	1.50
+loose	1.50
+far-fetched	1.50
+messy	1.50
+hairy	1.50
+careful	1.50
+impossible	1.50
+binding	1.50
+not sufficient	1.50
+weird	1.50
+expensive	1.50
+hurt	1.50
+not reliable	1.50
+opaque	1.50
+extra	1.50
+dependent	1.50
+repeated	1.50
+incorrect	1.50
+fatal	1.50
+uncool	1.50
+unhappy	1.50
+ugly	1.50
+silly	1.50
+senseless	1.50
+stupid	1.50
+retarded	1.50
+unclean	1.50
+redundant	1.50
+broken	1.50
+no better	1.50
+Forgotten	1.50
+unnecessarily	1.50
+huge	1.50
+Now	-5.00
+later	-5.00
+any more	-5.00
+probably	-5.00
+before	-5.00
+correctly	-5.00
+incorrectly	1.50
+less	-5.00
+Here	-5.00
+perhaps	-5.00
+Yet	-5.00
+Really	-5.00
+directly	-5.00
+anymore	-5.00
+somewhere	-5.00
+someplace	-5.00
+instead	-5.00
+more	-5.00
+horribly	-5.00
+too	-5.00
+intentionally	-5.00
+fully	-5.00
+So	-5.00
+not enough	1.00
+barely	1.00
+Future	1.00
+maybe	-5.00
+Never	1.00
+:/	1.00
+:(	1.00
+:o	1.00
+wtf	2.50
+ToDoItem	1.00
+ToDoList	1.00
+ASAP	-5.00
+problem	3.00
+fail	2.50
+discrepancy	2.00
+Optimization	-5.00
+workaround	2.00
+Bug	3.00
+limitation	2.00
+Deadlock	2.50
+defects	3.00
+enhancements	-5.00
+dependency	2.00

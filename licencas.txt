@@ -1,0 +1,45 @@
+Copyright
+This program is free software
+This program is distributed
+GNU General Public License
+but WITHOUT ANY WARRANTY
+THIS SOFTWARE IS PROVIDED
+WITHOUT WARRANTY OF ANY KIND
+Authored by
+Licensed under the Apache License
+See the License
+This is free software
+Free Software Foundation
+copy of the GNU General
+modify it under the terms
+This library is distributed in the hope that it will be useful
+See the GNU Lesser General Public 
+You should have received a copy of the GNU Lesser General Public 
+License along with this library;
+Oracle and Java are registered trademarks of Oracle 
+(C) Copyright 2000-2013, by Object Refinery Limited and Contributors. 
+This library is free software
+General Public License
+License along with this library
+GNU Lesser General Public License
+Copyright (C)
+Licensed to the Apache Software Foundation
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND
+Unless required by applicable law or agreed to in writing
+See the NOTICE file distributed
+License along
+Refinery Limited
+Java are registered
+warranty of MERCHANTABILITY
+FOR A PARTICULAR PURPOSE
+Software Foundation
+License
+a free chart library for the Java(tm) platform
+(C) Copyright
+This library is free software
+Free Software Foundation
+This library is distributed
+License along with this library; if not, write to the Free Software
+Original Author:
+Oracle and Java are registered trademarks of Oracle and/or its affiliates
+GNU Lesser General Public

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="preprocessamento/PorterStemAnalyzer.java|preprocessamento/StemAnalyzer.java|preprocessamento/StemDictionary.java" kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-configuration-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-lang-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/org.eclipse.core.contenttype.source_3.4.1.R35x_v20090826-0451.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.eclipse.core.jobs_3.4.100.v20090429-1800.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/org.eclipse.core.resources_3.5.2.R35x_v20091203-1235.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.eclipse.core.runtime_3.5.0.v20090525.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.eclipse.equinox.common_3.5.1.R35x_v20090807-1100.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.eclipse.equinox.preferences_3.2.301.R35x_v20091117.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.eclipse.jdt.core_3.5.2.v_981_R35x.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/org.eclipse.osgi_3.5.2.R35x_v20100126.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/postgresql-9.3-1102-jdbc41.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/mail-1.4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/lucene-demo-5.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/lucene-analyzers-common-5.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/lucene-queryparser-5.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/lucene-core-5.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/lucene-suggest-5.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/log4j-over-slf4j-1.7.18.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/slf4j-api-1.7.18.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/slf4j-jdk14-1.7.18.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/json-simple-1.1-bundle.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/stanford-corenlp-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/stanford-corenlp-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/stanford-corenlp-3.4-sources.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/stanford-english-corenlp-2016-01-10-models.jar"/>
+	<classpathentry kind="lib" path="F:/excomment3/libs/stanford-corenlp-3.4-models.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

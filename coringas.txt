@@ -1,0 +1,6 @@
+FIXME
+TODO
+XXX
+HACK
+Revisit
+remark

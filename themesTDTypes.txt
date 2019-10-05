@@ -1,0 +1,33 @@
+Architecture debt	Performance or Robustness problems
+Architecture debt	Violation of modularity
+Architecture debt	Dependency
+Build debt	Unnecessary time or memory consuming
+Build debt	Dependency
+Code debt	Redundancy
+Code debt	Temporary solution or workarounds
+Code debt	Bad coding practices
+Code debt	Inadequate solution
+Code debt	To do better (improvements)
+Code debt	Duplicate code
+Code debt	Need to implement or it wasn't well implemented
+Code debt	Unnecessary  or not used code
+Code debt	It is not working or does not work very well
+Code debt	Can causes exception
+Code debt	Deprecated code
+Code debt	Difficult to be maintained in the future
+Defect debt	Uncorrected known defects or bugs
+Defect debt	Defects or bugs
+Design debt	Inadequate location
+Design debt	Temporary solution or workarounds
+Design debt	Code smells
+Design debt	Inadequate solution
+Design debt	Duplicate code
+Design debt	Violation of principles of good design
+Design debt	Low/bad external/internal quality of properties
+Documentation debt	Misunderstanding
+Documentation debt	Documentation-missing or inadequate or incomplete
+People Debt	Human factors
+Requirement debt	Need to be safe
+Test debt	Tests to do
+Test debt	Deficiencies in testing activities
+Test debt	Insufficient code coverage

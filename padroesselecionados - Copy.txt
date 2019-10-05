@@ -1,0 +1,699 @@
+TODO	TAGs
+FIXME	TAGs
+XXX	TAGs
+HACK	TAGs
+REMIND	TAGs
+REVIEW	TAGs
+REVISIT	TAGs
+NOTE	TAGs
+REMARK	TAGs
+CHECKME	TAGs
+Todo: ?	Terms or Expressions (Technical Debt Context)
+Todo: Check!	Terms or Expressions (Technical Debt Context)
+TODO: Test	Terms or Expressions (Technical Debt Context)
+TODO: Here too?	Terms or Expressions (Technical Debt Context)
+TODO: Why	Terms or Expressions (Technical Debt Context)
+Todo: What?	Terms or Expressions (Technical Debt Context)
+Todo: how to	Terms or Expressions (Technical Debt Context)
+TODO: ?delete	Terms or Expressions (Technical Debt Context)
+TODO: Issue	Terms or Expressions (Technical Debt Context)
+Todo: Make	Terms or Expressions (Technical Debt Context)
+Todo: maybe	Terms or Expressions (Technical Debt Context)
+Todo: The recurrence	Terms or Expressions (Technical Debt Context)
+Todo: link to	Terms or Expressions (Technical Debt Context)
+TODO: Reuse	Terms or Expressions (Technical Debt Context)
+Todo: temporary	Terms or Expressions (Technical Debt Context)
+Todo: Replace	Terms or Expressions (Technical Debt Context)
+Todo: Should difine	Terms or Expressions (Technical Debt Context)
+Todo: not implemented	Terms or Expressions (Technical Debt Context)
+Todo: split	Terms or Expressions (Technical Debt Context)
+Todo: move	Terms or Expressions (Technical Debt Context)
+Todo: verify	Terms or Expressions (Technical Debt Context)
+Todo: ??	Terms or Expressions (Technical Debt Context)
+Todo: review	Terms or Expressions (Technical Debt Context)
+Todo: Redo	Terms or Expressions (Technical Debt Context)
+TODO: improve	Terms or Expressions (Technical Debt Context)
+TODO not correct	Terms or Expressions (Technical Debt Context)
+Todo: Not	Terms or Expressions (Technical Debt Context)
+Todo: really should be	Terms or Expressions (Technical Debt Context)
+should not	Terms or Expressions (Technical Debt Context)
+Todo: should have	Terms or Expressions (Technical Debt Context)
+would be not to start	Terms or Expressions (Technical Debt Context)
+should fail	Terms or Expressions (Technical Debt Context)
+tried to remove	Terms or Expressions (Technical Debt Context)
+should probably go	Terms or Expressions (Technical Debt Context)
+Todo: Rework 	Terms or Expressions (Technical Debt Context)
+do all following steps	Terms or Expressions (Technical Debt Context)
+rather bad hash solution	Terms or Expressions (Technical Debt Context)
+Todo Use	Terms or Expressions (Technical Debt Context)
+Todo: Can	Terms or Expressions (Technical Debt Context)
+need to change	Terms or Expressions (Technical Debt Context)
+will be moving	Terms or Expressions (Technical Debt Context)
+can be used instead	Terms or Expressions (Technical Debt Context)
+slows things down	Terms or Expressions (Technical Debt Context)
+could probably be	Terms or Expressions (Technical Debt Context)
+is needed	Terms or Expressions (Technical Debt Context)
+Todo: how to handle	Terms or Expressions (Technical Debt Context)
+can remove	Terms or Expressions (Technical Debt Context)
+should attempt	Terms or Expressions (Technical Debt Context)
+public?	Terms or Expressions (Technical Debt Context)
+cause exception	Terms or Expressions (Technical Debt Context)
+huge challenge	Terms or Expressions (Technical Debt Context)
+Note: code duplicates	Terms or Expressions (Technical Debt Context)
+Note: This class has gotten too big	Terms or Expressions (Technical Debt Context)
+TODO: is not friendly	Terms or Expressions (Technical Debt Context)
+Note: this try/catch block is copied from	Terms or Expressions (Technical Debt Context)
+XXX: deprecated	Terms or Expressions (Technical Debt Context)
+too large	Terms or Expressions (Technical Debt Context)
+see bug	Terms or Expressions (Technical Debt Context)
+seems to be a bug	Terms or Expressions (Technical Debt Context)
+workaround the bug	Terms or Expressions (Technical Debt Context)
+stupid error	Terms or Expressions (Technical Debt Context)
+TODO: would be better to refactor	Terms or Expressions (Technical Debt Context)
+intentionally fails	Terms or Expressions (Technical Debt Context)
+test will fail	Terms or Expressions (Technical Debt Context)
+Note: senseless	Terms or Expressions (Technical Debt Context)
+do not support	Terms or Expressions (Technical Debt Context)
+broken archive	Terms or Expressions (Technical Debt Context)
+This is broken	Terms or Expressions (Technical Debt Context)
+incorrectly caches	Terms or Expressions (Technical Debt Context)
+Note: incorrect here	Terms or Expressions (Technical Debt Context)
+are not currently expored	Terms or Expressions (Technical Debt Context)
+can never be	Terms or Expressions (Technical Debt Context)
+TODO: What to do	Terms or Expressions (Technical Debt Context)
+Note: this is inefficient	Terms or Expressions (Technical Debt Context)
+XXX: does this really belong here?	Terms or Expressions (Technical Debt Context)
+stupid scrollbar	Terms or Expressions (Technical Debt Context)
+break the action	Terms or Expressions (Technical Debt Context)
+dirty hack	Terms or Expressions (Technical Debt Context)
+need this bullshit	Terms or Expressions (Technical Debt Context)
+bad hack	Terms or Expressions (Technical Debt Context)
+stupid hack	Terms or Expressions (Technical Debt Context)
+seems silly	Terms or Expressions (Technical Debt Context)
+find a better place	Terms or Expressions (Technical Debt Context)
+TODO: this has to be here	Terms or Expressions (Technical Debt Context)
+could be more efficient	Terms or Expressions (Technical Debt Context)
+won't work	Terms or Expressions (Technical Debt Context)
+TODO broken	Terms or Expressions (Technical Debt Context)
+should be enough	Terms or Expressions (Technical Debt Context)
+TODO labels??	Terms or Expressions (Technical Debt Context)
+TODO specification?	Terms or Expressions (Technical Debt Context)
+Is this correct?	Terms or Expressions (Technical Debt Context)
+Does this help?	Terms or Expressions (Technical Debt Context)
+TODO: valid?	Terms or Expressions (Technical Debt Context)
+Todo: constraints 	Terms or Expressions (Technical Debt Context)
+must assemble	Terms or Expressions (Technical Debt Context)
+REVIEW Maybe this should be	Terms or Expressions (Technical Debt Context)
+needs to re-evaluate 	Terms or Expressions (Technical Debt Context)
+need to eliminate	Terms or Expressions (Technical Debt Context)
+Note: we should implement	Terms or Expressions (Technical Debt Context)
+could override this method	Terms or Expressions (Technical Debt Context)
+should be overridden	Terms or Expressions (Technical Debt Context)
+Note: need	Terms or Expressions (Technical Debt Context)
+Note: could eliminate	Terms or Expressions (Technical Debt Context)
+Note: should	Terms or Expressions (Technical Debt Context)
+need to be rewritten	Terms or Expressions (Technical Debt Context)
+TODO: need to add	Terms or Expressions (Technical Debt Context)
+XXX clean up	Terms or Expressions (Technical Debt Context)
+XXXX re-evaluate	Terms or Expressions (Technical Debt Context)
+Replace this later	Terms or Expressions (Technical Debt Context)
+hack to get fix	Terms or Expressions (Technical Debt Context)
+hack to move	Terms or Expressions (Technical Debt Context)
+hack to work	Terms or Expressions (Technical Debt Context)
+hack to avoid	Terms or Expressions (Technical Debt Context)
+must be a better way	Terms or Expressions (Technical Debt Context)
+FIXME: check	Terms or Expressions (Technical Debt Context)
+FIXME: rename	Terms or Expressions (Technical Debt Context)
+FIXME: use 	Terms or Expressions (Technical Debt Context)
+hack: find	Terms or Expressions (Technical Debt Context)
+TODO: refactor	Terms or Expressions (Technical Debt Context)
+should make	Terms or Expressions (Technical Debt Context)
+need to validate	Terms or Expressions (Technical Debt Context)
+TODO: weird	Terms or Expressions (Technical Debt Context)
+have to be careful 	Terms or Expressions (Technical Debt Context)
+could be a valid	Terms or Expressions (Technical Debt Context)
+resolve this discrepancy?	Terms or Expressions (Technical Debt Context)
+Note: this implementation is temporary	Terms or Expressions (Technical Debt Context)
+may be better	Terms or Expressions (Technical Debt Context)
+TODO: should add test	Terms or Expressions (Technical Debt Context)
+Temporary hack 	Terms or Expressions (Technical Debt Context)
+TODO: maybe we should test	Terms or Expressions (Technical Debt Context)
+could decouple	Terms or Expressions (Technical Debt Context)
+could fix	Terms or Expressions (Technical Debt Context)
+completely unnecessary	Terms or Expressions (Technical Debt Context)
+will be longer	Terms or Expressions (Technical Debt Context)
+TODO: wtf	Terms or Expressions (Technical Debt Context)
+cannot be called	Terms or Expressions (Technical Debt Context)
+problem here	Terms or Expressions (Technical Debt Context)
+Bad code	Terms or Expressions (Technical Debt Context)
+Is there no better way?	Terms or Expressions (Technical Debt Context)
+TODO: Is this needed?	Terms or Expressions (Technical Debt Context)
+TODO: Is this correct?	Terms or Expressions (Technical Debt Context)
+Todo: Does this help?	Terms or Expressions (Technical Debt Context)
+Would it not better be	Terms or Expressions (Technical Debt Context)
+Find a better way to do this	Terms or Expressions (Technical Debt Context)
+not possible to do better	Terms or Expressions (Technical Debt Context)
+Todo: Is this a good way?	Terms or Expressions (Technical Debt Context)
+probably better ways to implement this	Terms or Expressions (Technical Debt Context)
+is not the correct way	Terms or Expressions (Technical Debt Context)
+not entirely correct	Terms or Expressions (Technical Debt Context)
+other way to implement	Terms or Expressions (Technical Debt Context)
+could probably do better	Terms or Expressions (Technical Debt Context)
+big arrays	Terms or Expressions (Technical Debt Context)
+Clean Up	Terms or Expressions (Technical Debt Context)
+clone code	Terms or Expressions (Technical Debt Context)
+Future enhancement	Terms or Expressions (Technical Debt Context)
+Ignore the error	Terms or Expressions (Technical Debt Context)
+It 's an error	Terms or Expressions (Technical Debt Context)
+god class	Terms or Expressions (Technical Debt Context)
+Harder to fix	Terms or Expressions (Technical Debt Context)
+large class	Terms or Expressions (Technical Debt Context)
+Never implemented	Terms or Expressions (Technical Debt Context)
+no sense	Terms or Expressions (Technical Debt Context)
+not implemented	Terms or Expressions (Technical Debt Context)
+not necessary	Terms or Expressions (Technical Debt Context)
+not really needed	Terms or Expressions (Technical Debt Context)
+Quality problem	Terms or Expressions (Technical Debt Context)
+Slow performance	Terms or Expressions (Technical Debt Context)
+test score for nothing	Terms or Expressions (Technical Debt Context)
+tired to think	Terms or Expressions (Technical Debt Context)
+Unnecessary code	Terms or Expressions (Technical Debt Context)
+Violation of modularity	Terms or Expressions (Technical Debt Context)
+What?	Terms or Expressions (Technical Debt Context)
+What do we do	Terms or Expressions (Technical Debt Context)
+What about?	Terms or Expressions (Technical Debt Context)
+Don't appear to be used	Terms or Expressions (Technical Debt Context)
+not used in the new APIs	Terms or Expressions (Technical Debt Context)
+code is not used	Terms or Expressions (Technical Debt Context)
+no faults are fixed	Terms or Expressions (Technical Debt Context)
+not work	Terms or Expressions (Technical Debt Context)
+TODO: check if this works	Terms or Expressions (Technical Debt Context)
+cyclic dependency	Terms or Expressions (Technical Debt Context)
+dependency cycle	Terms or Expressions (Technical Debt Context)
+Why is this not done	Terms or Expressions (Technical Debt Context)
+Todo: Why do I need to do this?	Terms or Expressions (Technical Debt Context)
+Why are these gone?	Terms or Expressions (Technical Debt Context)
+Why is it here?	Terms or Expressions (Technical Debt Context)
+Todo: Why is this here?	Terms or Expressions (Technical Debt Context)
+why synchronized?	Terms or Expressions (Technical Debt Context)
+Todo: Why was	Terms or Expressions (Technical Debt Context)
+TODO: why is this inside a block?	Terms or Expressions (Technical Debt Context)
+Todo: Why does it fail	Terms or Expressions (Technical Debt Context)
+causes and exception	Terms or Expressions (Technical Debt Context)
+not seem to define this name	Terms or Expressions (Technical Debt Context)
+show some documentation?	Terms or Expressions (Technical Debt Context)
+Not are useful here	Terms or Expressions (Technical Debt Context)
+nobody is using	Terms or Expressions (Technical Debt Context)
+nobody ever looks	Terms or Expressions (Technical Debt Context)
+is there a problem	Terms or Expressions (Technical Debt Context)
+I don't think	Terms or Expressions (Technical Debt Context)
+Todo: Work in progress here	Terms or Expressions (Technical Debt Context)
+For debugging	Terms or Expressions (Technical Debt Context)
+let's be sure	Terms or Expressions (Technical Debt Context)
+I don't understant	Terms or Expressions (Technical Debt Context)
+misunderstanding	Terms or Expressions (Technical Debt Context)
+not sure why	Terms or Expressions (Technical Debt Context)
+It causes the feedback loop	Terms or Expressions (Technical Debt Context)
+must be re-introduced to solve	Terms or Expressions (Technical Debt Context)
+may be optimised	Terms or Expressions (Technical Debt Context)
+Is there any other way?	Terms or Expressions (Technical Debt Context)
+Todo: This is probably not the right location	Terms or Expressions (Technical Debt Context)
+Will be able 	Terms or Expressions (Technical Debt Context)
+probably redundant	Terms or Expressions (Technical Debt Context)
+it is used in several places	Terms or Expressions (Technical Debt Context)
+clone of this code	Terms or Expressions (Technical Debt Context)
+Need to Copy	Terms or Expressions (Technical Debt Context)
+I chose not to do this	Terms or Expressions (Technical Debt Context)
+Todo: Which is best? 	Terms or Expressions (Technical Debt Context)
+This is a bug	Terms or Expressions (Technical Debt Context)
+cause issue	Terms or Expressions (Technical Debt Context)
+not according	Terms or Expressions (Technical Debt Context)
+is not a valid one	Terms or Expressions (Technical Debt Context)
+is slightly different than what's documented.	Terms or Expressions (Technical Debt Context)
+cause problem	Terms or Expressions (Technical Debt Context)
+still has some problems	Terms or Expressions (Technical Debt Context)
+Todo: does not handle	Terms or Expressions (Technical Debt Context)
+Todo: Handle	Terms or Expressions (Technical Debt Context)
+TODO: I don't think it's normal 	Terms or Expressions (Technical Debt Context)
+Todo: has a bad smell	Terms or Expressions (Technical Debt Context)
+THIS IS A HACK	Terms or Expressions (Technical Debt Context)
+memory cosuming	Terms or Expressions (Technical Debt Context)
+Todo: This needs more work!	Terms or Expressions (Technical Debt Context)
+Todo: does not work	Terms or Expressions (Technical Debt Context)
+to be safe	Terms or Expressions (Technical Debt Context)
+take care	Terms or Expressions (Technical Debt Context)
+inherited problems	Terms or Expressions (Technical Debt Context)
+problems directly in	Terms or Expressions (Technical Debt Context)
+contains some errors	Terms or Expressions (Technical Debt Context)
+FIXME: this could be a problem	Terms or Expressions (Technical Debt Context)
+Low code coverage	Terms or Expressions (Technical Debt Context)
+Bad coding practies	Terms or Expressions (Technical Debt Context)
+Time consuming	Terms or Expressions (Technical Debt Context)
+Deficiency in testing activities	Terms or Expressions (Technical Debt Context)
+necessity of understanding	Terms or Expressions (Technical Debt Context)
+Work in progress here	Terms or Expressions (Technical Debt Context)
+Note: This is temporary	Terms or Expressions (Technical Debt Context)
+TODO: maybe should stop	Terms or Expressions (Technical Debt Context)
+need to be in their own files? 	Terms or Expressions (Technical Debt Context)
+Todo: THIS IS A HACK	Terms or Expressions (Technical Debt Context)
+A much better way	Terms or Expressions (Technical Debt Context)
+the critic in the first place	Terms or Expressions (Technical Debt Context)
+defined in the ToDoItem	Terms or Expressions (Technical Debt Context)
+changes the complete structure	Terms or Expressions (Technical Debt Context)
+Who is calling this?	Terms or Expressions (Technical Debt Context)
+manually created todo item	Terms or Expressions (Technical Debt Context)
+Todo: This probably belongs	Terms or Expressions (Technical Debt Context)
+needs documenting	Terms or Expressions (Technical Debt Context)
+Information that is required	Terms or Expressions (Technical Debt Context)
+replace the deprecated	Terms or Expressions (Technical Debt Context)
+currently not used	Terms or Expressions (Technical Debt Context)
+not support Java 1.3 any more	Terms or Expressions (Technical Debt Context)
+needs to be fixed	Terms or Expressions (Technical Debt Context)
+Todo: We could also support	Terms or Expressions (Technical Debt Context)
+problems directly in this class	Terms or Expressions (Technical Debt Context)
+need to do anything here?	Terms or Expressions (Technical Debt Context)
+good solution?	Terms or Expressions (Technical Debt Context)
+Todo: improve the fig finding algorithm	Terms or Expressions (Technical Debt Context)
+What to do	Terms or Expressions (Technical Debt Context)
+Note: maybe	Terms or Expressions (Technical Debt Context)
+Todo: correctly implement	Terms or Expressions (Technical Debt Context)
+Todo: This is a temporary method	Terms or Expressions (Technical Debt Context)
+I don't understand	Terms or Expressions (Technical Debt Context)
+Todo: This is not according	Terms or Expressions (Technical Debt Context)
+Todo: This needs work	Terms or Expressions (Technical Debt Context)
+unwanted dependency	Terms or Expressions (Technical Debt Context)
+all memory allocated	Terms or Expressions (Technical Debt Context)
+Suggestions for solutions	Terms or Expressions (Technical Debt Context)
+bug workaround	Terms or Expressions (Technical Debt Context)
+Workaround for a bug	Terms or Expressions (Technical Debt Context)
+this sucks	Terms or Expressions (Technical Debt Context)
+timing-dependent	Terms or Expressions (Technical Debt Context)
+TODO: maybe we should resolve	Terms or Expressions (Technical Debt Context)
+TODO: maybe take here?	Terms or Expressions (Technical Debt Context)
+TODO maybe it would make 	Terms or Expressions (Technical Debt Context)
+should never happen	Terms or Expressions (Technical Debt Context)
+I don't know	Terms or Expressions (Technical Debt Context)
+will never be	Terms or Expressions (Technical Debt Context)
+makes no sense	Terms or Expressions (Technical Debt Context)
+known problem	Terms or Expressions (Technical Debt Context)
+is not enough	Terms or Expressions (Technical Debt Context)
+make sense?	Terms or Expressions (Technical Debt Context)
+broken down	Terms or Expressions (Technical Debt Context)
+horribly Inefficient	Terms or Expressions (Technical Debt Context)
+consume very large	Terms or Expressions (Technical Debt Context)
+modular violation	Terms or Expressions (Technical Debt Context)
+is not quite right	Terms or Expressions (Technical Debt Context)
+large coupled	Terms or Expressions (Technical Debt Context)
+Not recommended	Terms or Expressions (Technical Debt Context)
+not sure	Terms or Expressions (Technical Debt Context)
+Problem of performance	Terms or Expressions (Technical Debt Context)
+needes to be cleared	Terms or Expressions (Technical Debt Context)
+need to factor	Terms or Expressions (Technical Debt Context)
+Should be overriden	Terms or Expressions (Technical Debt Context)
+should no longer be used	Terms or Expressions (Technical Debt Context)
+should not have existed	Terms or Expressions (Technical Debt Context)
+barely understood	Terms or Expressions (Technical Debt Context)
+bad smell	Terms or Expressions (Technical Debt Context)
+deprecated code	Terms or Expressions (Technical Debt Context)
+deprecated api	Terms or Expressions (Technical Debt Context)
+would be better	Terms or Expressions (Technical Debt Context)
+bullshit	Terms or Expressions (Technical Debt Context)
+probably a bug	Terms or Expressions (Technical Debt Context)
+Todo: Add implementation	Terms or Expressions (Technical Debt Context)
+Todo: Add	Terms or Expressions (Technical Debt Context)
+Todo: Fix	Terms or Expressions (Technical Debt Context)
+Remove All	Terms or Expressions (Technical Debt Context)
+remove dependencies later	Terms or Expressions (Technical Debt Context)
+Remove the dependent	Terms or Expressions (Technical Debt Context)
+remove literal	Terms or Expressions (Technical Debt Context)
+move to the correct owner	Terms or Expressions (Technical Debt Context)
+Todo: Change	Terms or Expressions (Technical Debt Context)
+Need to be amended	Terms or Expressions (Technical Debt Context)
+Need to be updated	Terms or Expressions (Technical Debt Context)
+Not created yet	Terms or Expressions (Technical Debt Context)
+deprecated call	Terms or Expressions (Technical Debt Context)
+to be verified	Terms or Expressions (Technical Debt Context)
+Todo: Check the name	Terms or Expressions (Technical Debt Context)
+maybe can be implemented	Terms or Expressions (Technical Debt Context)
+is not yet completely implemented	Terms or Expressions (Technical Debt Context)
+not yet used	Terms or Expressions (Technical Debt Context)
+is not updated	Terms or Expressions (Technical Debt Context)
+how do we resolve this?	Terms or Expressions (Technical Debt Context)
+TODO: resolve item	Terms or Expressions (Technical Debt Context)
+has to be	Terms or Expressions (Technical Debt Context)
+have to set	Terms or Expressions (Technical Debt Context)
+have to move	Terms or Expressions (Technical Debt Context)
+Have to add	Terms or Expressions (Technical Debt Context)
+TODO: Do we really have to test	Terms or Expressions (Technical Debt Context)
+have to delete it later	Terms or Expressions (Technical Debt Context)
+Have to do	Terms or Expressions (Technical Debt Context)
+must be resized	Terms or Expressions (Technical Debt Context)
+need to clone	Terms or Expressions (Technical Debt Context)
+need to refactor	Terms or Expressions (Technical Debt Context)
+need to set	Terms or Expressions (Technical Debt Context)
+Needs to be reviewed	Terms or Expressions (Technical Debt Context)
+Needs to be updated	Terms or Expressions (Technical Debt Context)
+need to be moved someplace useful	Terms or Expressions (Technical Debt Context)
+to be moved	Terms or Expressions (Technical Debt Context)
+need to be	Terms or Expressions (Technical Debt Context)
+Todo: Not sure we need to do this	Terms or Expressions (Technical Debt Context)
+need to jump	Terms or Expressions (Technical Debt Context)
+should be visible	Terms or Expressions (Technical Debt Context)
+Why should it pass?	Terms or Expressions (Technical Debt Context)
+should be taken out	Terms or Expressions (Technical Debt Context)
+don't think we should be	Terms or Expressions (Technical Debt Context)
+should be fixed	Terms or Expressions (Technical Debt Context)
+This should NOT be looking	Terms or Expressions (Technical Debt Context)
+should actually not be placed here	Terms or Expressions (Technical Debt Context)
+should not be necessary	Terms or Expressions (Technical Debt Context)
+should not happen	Terms or Expressions (Technical Debt Context)
+should not have	Terms or Expressions (Technical Debt Context)
+not to do this to keep architecture stable	Terms or Expressions (Technical Debt Context)
+doesn't do anything	Terms or Expressions (Technical Debt Context)
+not do this?	Terms or Expressions (Technical Debt Context)
+Will be needed	Terms or Expressions (Technical Debt Context)
+shall never	Terms or Expressions (Technical Debt Context)
+Should find	Terms or Expressions (Technical Debt Context)
+It should handle 	Terms or Expressions (Technical Debt Context)
+Should modify	Terms or Expressions (Technical Debt Context)
+here?	Terms or Expressions (Technical Debt Context)
+Todo: Here we should	Terms or Expressions (Technical Debt Context)
+Will be hard work	Terms or Expressions (Technical Debt Context)
+arbitrary dimensions	Terms or Expressions (Technical Debt Context)
+somewhat inconsistent	Terms or Expressions (Technical Debt Context)
+method is unsafe	Terms or Expressions (Technical Debt Context)
+Dirty fix	Terms or Expressions (Technical Debt Context)
+temporary solution	Terms or Expressions (Technical Debt Context)
+possible future improvement	Terms or Expressions (Technical Debt Context)
+future maintenance	Terms or Expressions (Technical Debt Context)
+future potential optimizations	Terms or Expressions (Technical Debt Context)
+Future release	Terms or Expressions (Technical Debt Context)
+in the Future	Terms or Expressions (Technical Debt Context)
+unnecessarily complicated	Terms or Expressions (Technical Debt Context)
+This case is complicated	Terms or Expressions (Technical Debt Context)
+Todo: required	Terms or Expressions (Technical Debt Context)
+TODO: Is this required?	Terms or Expressions (Technical Debt Context)
+Remove duplicates	Terms or Expressions (Technical Debt Context)
+not quite right	Terms or Expressions (Technical Debt Context)
+get confused	Terms or Expressions (Technical Debt Context)
+confusing name	Terms or Expressions (Technical Debt Context)
+Code so long?	Terms or Expressions (Technical Debt Context)
+difficult to maintain	Terms or Expressions (Technical Debt Context)
+extra work	Terms or Expressions (Technical Debt Context)
+perhaps move to	Terms or Expressions (Technical Debt Context)
+fails the test	Terms or Expressions (Technical Debt Context)
+can fail	Terms or Expressions (Technical Debt Context)
+assert fails	Terms or Expressions (Technical Debt Context)
+complete fail	Terms or Expressions (Technical Debt Context)
+can never happen	Terms or Expressions (Technical Debt Context)
+never called	Terms or Expressions (Technical Debt Context)
+never have	Terms or Expressions (Technical Debt Context)
+repeated code	Terms or Expressions (Technical Debt Context)
+rather bad	Terms or Expressions (Technical Debt Context)
+alternative implementation	Terms or Expressions (Technical Debt Context)
+very expensive	Terms or Expressions (Technical Debt Context)
+Note: loose type	Terms or Expressions (Technical Debt Context)
+Note: kind of far-fetched	Terms or Expressions (Technical Debt Context)
+Note: This class is messy	Terms or Expressions (Technical Debt Context)
+XXX: hairy code	Terms or Expressions (Technical Debt Context)
+Should be careful	Terms or Expressions (Technical Debt Context)
+plainly impossible	Terms or Expressions (Technical Debt Context)
+binding bug	Terms or Expressions (Technical Debt Context)
+This is not a sufficient	Terms or Expressions (Technical Debt Context)
+weird hack	Terms or Expressions (Technical Debt Context)
+can be expensive	Terms or Expressions (Technical Debt Context)
+This could possibly hurt performance	Terms or Expressions (Technical Debt Context)
+is not reliable as a unit test	Terms or Expressions (Technical Debt Context)
+fully opaque	Terms or Expressions (Technical Debt Context)
+seems wrong 	Terms or Expressions (Technical Debt Context)
+Todo: implement this	Terms or Expressions (Technical Debt Context)
+Todo: Party overlaps	Terms or Expressions (Technical Debt Context)
+Todo: Update	Terms or Expressions (Technical Debt Context)
+can be deleted	Terms or Expressions (Technical Debt Context)
+can probably have	Terms or Expressions (Technical Debt Context)
+clone method	Terms or Expressions (Technical Debt Context)
+have not the means	Terms or Expressions (Technical Debt Context)
+have to use	Terms or Expressions (Technical Debt Context)
+later use	Terms or Expressions (Technical Debt Context)
+must be moved	Terms or Expressions (Technical Debt Context)
+must come before	Terms or Expressions (Technical Debt Context)
+must notify modification	Terms or Expressions (Technical Debt Context)
+need a more language/notation	Terms or Expressions (Technical Debt Context)
+need to check	Terms or Expressions (Technical Debt Context)
+need to extend	Terms or Expressions (Technical Debt Context)
+need to listen	Terms or Expressions (Technical Debt Context)
+need to verify	Terms or Expressions (Technical Debt Context)
+TODO: indicate the direction!	Terms or Expressions (Technical Debt Context)
+will be useful	Terms or Expressions (Technical Debt Context)
+would seem to imply	Terms or Expressions (Technical Debt Context)
+will be replaced	Terms or Expressions (Technical Debt Context)
+update the model	Terms or Expressions (Technical Debt Context)
+Calls are ORDER DEPENDENT	Terms or Expressions (Technical Debt Context)
+can't contain	Terms or Expressions (Technical Debt Context)
+Do we need	Terms or Expressions (Technical Debt Context)
+loops are double	Terms or Expressions (Technical Debt Context)
+may be no need	Terms or Expressions (Technical Debt Context)
+Nothing to be done	Terms or Expressions (Technical Debt Context)
+"now remove the pool, too"	Terms or Expressions (Technical Debt Context)
+reduce the number	Terms or Expressions (Technical Debt Context)
+references to elements of other packages?	Terms or Expressions (Technical Debt Context)
+Should define	Terms or Expressions (Technical Debt Context)
+add	Action Verbs (AV)
+fix	Action Verbs (AV)
+remove	Action Verbs (AV)
+move	Action Verbs (AV)
+change	Action Verbs (AV)
+create	Action Verbs (AV)
+read	Action Verbs (AV)
+modify 	Action Verbs (AV)
+Replace	Action Verbs (AV)
+Verify	Action Verbs (AV)
+improve	Action Verbs (AV)
+implement	Action Verbs (AV)
+Support	Action Verbs (AV)
+Repair	Action Verbs (AV)
+Rework	Action Verbs (AV)
+Cause	Action Verbs (AV)
+update	Action Verbs (AV)
+Try	Action Verbs (AV)
+Solve	Action Verbs (AV)
+Optimise	Action Verbs (AV)
+Copy	Action Verbs (AV)
+rebuild	Action Verbs (AV)
+Resolve	Action Verbs (AV)
+Indicate	Action Verbs (AV)
+Reuse	Action Verbs (AV)
+Split	Action Verbs (AV)
+Redo	Action Verbs (AV)
+Jump	Action Verbs (AV)
+rename	Action Verbs (AV)
+return	Action Verbs (AV)
+allocate	Action Verbs (AV)
+Find	Action Verbs (AV)
+Use	Action Verbs (AV)
+Handle	Action Verbs (AV)
+Re-evaluate	Action Verbs (AV)
+Remember	Action Verbs (AV)
+ignore	Action Verbs (AV)
+assemble	Action Verbs (AV)
+explore	Action Verbs (AV)
+override 	Action Verbs (AV)
+Look for	Action Verbs (AV)
+break	Action Verbs (AV)
+rewritten	Action Verbs (AV)
+make	Action Verbs (AV)
+leave	Action Verbs (AV)
+avoid	Action Verbs (AV)
+Define	Action Verbs (AV)
+decouple	Action Verbs (AV)
+consume	Action Verbs (AV)
+execute	Action Verbs (AV)
+clone	Action Verbs (AV)
+test	Action Verbs (AV)
+review	Action Verbs (AV)
+insert	Action Verbs (AV)
+perform	Action Verbs (AV)
+Eliminate	Action Verbs (AV)
+Check	Action Verbs (AV)
+refactor	Action Verbs (AV)
+delete	Action Verbs (AV)
+Debug	Action Verbs (AV)
+fail	Action Verbs (AV)
+overlap	Action Verbs (AV)
+follow	Action Verbs (AV)
+amend	Action Verbs (AV)
+Require	Action Verbs (AV)
+Can be	Open task verbs
+May be	Open task verbs
+might be	Open task verbs
+May remove	Open task verbs
+have to	Open task verbs
+must be	Open task verbs
+need to	Open task verbs
+should be	Open task verbs
+should not be	Open task verbs
+should have	Open task verbs
+to do	Open task verbs
+would be	Open task verbs
+would not be	Open task verbs
+Will be	Open task verbs
+must come 	Open task verbs
+Will not be	Open task verbs
+Won't be	Open task verbs
+could be	Open task verbs
+would have	Open task verbs
+should never	Open task verbs
+must have	Open task verbs
+may have	Open task verbs
+may return	Open task verbs
+should allow	Open task verbs
+should use	Open task verbs
+Can	MODAL VERBS
+Shall	MODAL VERBS
+Will	MODAL VERBS
+Must	MODAL VERBS
+Should	MODAL VERBS
+Would	MODAL VERBS
+Could	MODAL VERBS
+may	MODAL VERBS
+might	MODAL VERBS
+Open	Adjectives
+Blind	Adjectives
+Drab	Adjectives
+Nebulous	Adjectives
+Tense	Adjectives
+Hard	Adjectives
+heavy	Adjectives
+wrong	Adjectives
+arbitrary	Adjectives
+missing	Adjectives
+inadequate	Adjectives
+incomplete	Adjectives
+unnecessary	Adjectives
+Necessary	Adjectives
+slow	Adjectives
+dangerous	Adjectives
+erratic	Adjectives
+inconsistent	Adjectives
+obsolete	Adjectives
+unprepared	Adjectives
+Unsafe 	Adjectives
+inefficient	Adjectives
+undocumented 	Adjectives
+not friendly	Adjectives
+not clear	Adjectives
+large	Adjectives
+dirty	Adjectives
+not better	Adjectives
+provisional	Adjectives
+Temporary	Adjectives
+Deprecated	Adjectives
+tired	Adjectives
+Critic	Adjectives
+complicated	Adjectives
+not correct	Adjectives
+not stable	Adjectives
+Strange	Adjectives
+Duplicate	Adjectives
+not right	Adjectives
+Confuse	Adjectives
+unwanted 	Adjectives
+bad	Adjectives
+Long	Adjectives
+uncommented	Adjectives
+undocumented	Adjectives
+Old	Adjectives
+difficult	Adjectives
+loose	Adjectives
+far-fetched	Adjectives
+messy	Adjectives
+hairy	Adjectives
+careful	Adjectives
+impossible	Adjectives
+binding	Adjectives
+not sufficient	Adjectives
+weird	Adjectives
+expensive	Adjectives
+hurt	Adjectives
+not reliable	Adjectives
+opaque	Adjectives
+extra	Adjectives
+dependent	Adjectives
+repeated	Adjectives
+incorrect	Adjectives
+fatal	Adjectives
+uncool	Adjectives
+unhappy	Adjectives
+ugly	Adjectives
+silly	Adjectives
+senseless	Adjectives
+stupid	Adjectives
+retarded	Adjectives
+unclean	Adjectives
+redundant	Adjectives
+broken	Adjectives
+no better	Adjectives
+required	Adjectives
+unnecessarily	Adjectives
+Forgotten	Adjectives
+contradict 	Adjectives
+huge	Adjectives
+Currently	Adverbs
+Now	Adverbs
+later	Adverbs
+any more	Adverbs
+probably	Adverbs
+before	Adverbs
+correctly	Adverbs
+incorrectly	Adverbs
+less	Adverbs
+less efficient	Adverbs
+Here	Adverbs
+perhaps	Adverbs
+Yet	Adverbs
+Really	Adverbs
+Not necessarily	Adverbs
+directly	Adverbs
+anymore	Adverbs
+somewhere	Adverbs
+someplace	Adverbs
+instead	Adverbs
+more	Adverbs
+horribly	Adverbs
+too	Adverbs
+intentionally	Adverbs
+fully	Adverbs
+So	Adverbs
+not enough	Adverbs
+barely	Adverbs
+Future	Adverbs
+maybe	Adverbs
+Never	Adverbs
+Why	Adverbs
+Why?	Adverbs
+?	Symbol
+:/	Symbol
+:(	Symbol
+:o	Symbol
+Upcase	Symbol
+wtf	Acronym and abreviations
+the trap	Acronym and abreviations
+ToDoItem	Acronym and abreviations
+ToDoList	Acronym and abreviations
+ASAP	Acronym and abreviations
+hardcode	Acronym and abreviations
+error	Nouns
+mistake	Nouns
+problem	Nouns
+issue	Nouns
+fail	Nouns
+discrepancy	Nouns
+Optimization	Nouns
+workaround	Nouns
+Bug	Nouns
+limitation	Nouns
+Deadlock	Nouns
+defects	Nouns
+enhancements	Nouns
+issue	Nouns
+dependency	Nouns
