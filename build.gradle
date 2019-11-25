@@ -1,0 +1,169 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+apply plugin: 'eclipse'
+
+group = 'br.uespi.les'
+version = '1.0'
+
+description = """excomment3"""
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+        
+     maven { url "https://repo.eclipse.org/content/groups/releases/" }
+     maven { url "http://repo.maven.apache.org/maven2" }
+}
+dependencies {
+
+	// [Missing] stanford-corenlp-3.4-javadoc.jar
+	// [Missing] stanford-corenlp-3.4-models.jar
+	// [Missing] stanford-corenlp-3.4-sources.jar
+	// [Missing] stanford-english-corenlp-2016-01-10-models.jar
+	// [Missing] org.eclipse.equinox.concurrent_1.0.1.R35x_v20100209.jar
+	// [Missing] org.eclipse.core.resources.source_3.5.2.R35x_v20091203-1235.jar
+	// [Missing] json-simple-1.1-bundle.jar
+
+	// https://mvnrepository.com/artifact/commons-collections/commons-collections
+	compile group: 'commons-collections', name: 'commons-collections', version: '3.2.1'
+	
+	// https://mvnrepository.com/artifact/commons-configuration/commons-configuration
+	compile group: 'commons-configuration', name: 'commons-configuration', version: '1.6'
+	
+	// https://mvnrepository.com/artifact/commons-lang/commons-lang
+	compile group: 'commons-lang', name: 'commons-lang', version: '2.5'
+	
+	// https://mvnrepository.com/artifact/commons-logging/commons-logging-api
+	compile group: 'commons-logging', name: 'commons-logging-api', version: '1.1'
+	
+	// https://mvnrepository.com/artifact/commons-logging/commons-logging
+	compile group: 'commons-logging', name: 'commons-logging', version: '1.1.1'
+	
+	// https://mvnrepository.com/artifact/com.google.code.gson/gson
+	compile group: 'com.google.code.gson', name: 'gson', version: '2.3.1'
+	
+	// https://mvnrepository.com/artifact/net.sf.json-lib/json-lib
+	compile group: 'net.sf.json-lib', name: 'json-lib', version: '2.4'
+	
+	// https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
+	compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
+	
+	// https://mvnrepository.com/artifact/org.slf4j/log4j-over-slf4j
+	compile group: 'org.slf4j', name: 'log4j-over-slf4j', version: '1.7.18'
+	
+	// https://mvnrepository.com/artifact/org.apache.lucene/lucene-analyzers-common
+	compile group: 'org.apache.lucene', name: 'lucene-analyzers-common', version: '5.4.0'
+	
+	// https://mvnrepository.com/artifact/org.apache.lucene/lucene-core
+	compile group: 'org.apache.lucene', name: 'lucene-core', version: '5.4.0'
+	
+	// https://mvnrepository.com/artifact/org.apache.lucene/lucene-demo
+	compile group: 'org.apache.lucene', name: 'lucene-demo', version: '5.4.0'
+	
+	// https://mvnrepository.com/artifact/org.apache.lucene/lucene-queryparser
+	compile group: 'org.apache.lucene', name: 'lucene-queryparser', version: '5.4.0'
+	
+	// https://mvnrepository.com/artifact/org.apache.lucene/lucene-suggest
+	compile group: 'org.apache.lucene', name: 'lucene-suggest', version: '5.4.0'
+	
+	// https://mvnrepository.com/artifact/javax.mail/mail
+	compile group: 'javax.mail', name: 'mail', version: '1.4.7'
+	
+	// https://mvnrepository.com/artifact/org.postgresql/postgresql
+	compile group: 'org.postgresql', name: 'postgresql', version: '9.3-1102-jdbc41'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.osgi/org.eclipse.osgi
+	// org.eclipse.osgi_3.5.2.R35x_v20100126.jar
+	compile group: 'org.eclipse.osgi', name: 'org.eclipse.osgi', version: '3.6.0.v20100517'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.jdt/core
+	// org.eclipse.jdt.core_3.5.2.v_981_R35x.jar
+	compile group: 'org.eclipse.jdt', name: 'core', version: '3.3.0-v_771'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.equinox/org.eclipse.equinox.preferences
+	// org.eclipse.equinox.preferences_3.2.301.R35x_v20091117.jar
+	compile group: 'org.eclipse.equinox', name: 'org.eclipse.equinox.preferences', version: '3.3.0.v20100503'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.core/org.eclipse.core.contenttype
+	//org.eclipse.core.contenttype.source_3.4.1.R35x_v20090826-0451.jar
+	compile group: 'org.eclipse.core', name: 'org.eclipse.core.contenttype', version: '3.4.100.v20100505-1235'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.core/jobs
+	// org.eclipse.core.jobs_3.4.100.v20090429-1800.jar
+	providedCompile group: 'org.eclipse.core', name: 'jobs', version: '3.5.300-v20130429-1813'
+	
+	// https://mvnrepository.com/artifact/org.eclipse/org.eclipse.core.resources
+	// org.eclipse.core.resources_3.5.2.R35x_v20091203-1235.jar
+	compile group: 'org.eclipse', name: 'org.eclipse.core.resources', version: '3.3.1.R33x_v20080205'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.core/org.eclipse.core.runtime
+	// org.eclipse.core.runtime_3.5.0.v20090525.jar
+	compile group: 'org.eclipse.core', name: 'org.eclipse.core.runtime', version: '3.6.0.v20100505'
+	
+	// https://mvnrepository.com/artifact/org.eclipse.equinox/common
+	// org.eclipse.equinox.common_3.5.1.R35x_v20090807-1100.jar
+	compile group: 'org.eclipse.equinox', name: 'common', version: '3.6.200-v20130402-1505'
+	
+	// https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp
+	compile group: 'edu.stanford.nlp', name: 'stanford-corenlp', version: '3.4'
+	
+	// https://mvnrepository.com/artifact/org.slf4j/slf4j-api
+	// slf4j-api-1.7.18.jar
+	compile group: 'org.slf4j', name: 'slf4j-api', version: '1.8.0-beta4'
+	
+	// https://mvnrepository.com/artifact/org.slf4j/slf4j-jdk14
+	testCompile group: 'org.slf4j', name: 'slf4j-jdk14', version: '1.7.18'
+
+
+    testCompile group: 'junit', name: 'junit', version:'4.12'
+}
+
+
+jar {
+	version = "3.1r"+getDate()
+    from {
+
+        configurations.runtime.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+
+        configurations.compile.collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
+    
+    manifest { 
+        attributes(
+        	'Main-Class': 'GUI.TelaPrincipal',
+        	"Implementation-Title": "Gradle",
+        	"Implementation-Version": version)
+    }
+    exclude 'META-INF/*.RSA', 'META-INF/*.SF','META-INF/*.DSA'
+}
+
+def getDate() {
+    def date = new Date()
+    def formattedDate = date.format('yyyyMMddHHmm')
+    return formattedDate
+}
+
+//def dbDefaultProperties = new File(rootProject.projectDir, 'src/main/resources/db.properties.sample')
+//def dbProperties = new File(rootProject.projectDir, 'src/main/resources/db.properties')
+//task prepareDefaultProperties {
+  //  outputs.file(dbProperties)
+
+//    outputs.upToDateWhen {
+  //      return dbProperties.exists()
+   // }
+
+   //doLast {
+   //     if (!dbProperties.exists()) {
+    //        Properties dbProps = new Properties()
+     //       dbProps.load(new FileInputStream(dbDefaultProperties))
+      //      dbProps.store(new FileOutputStream(dbProperties), null)
+      //  }
+    //}
+//}
+
+//processResources.dependsOn prepareDefaultProperties
